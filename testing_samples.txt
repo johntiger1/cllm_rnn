@@ -1,0 +1,1019 @@
+ The most common differential diagnosis of β-thalassemia (β-thal) trait is iron deficiency anemia.
+Several red blood cell equations were introduced during different studies for differential diagnosis between β-thal trait and iron deficiency anemia.
+Due to genetic variations in different regions, these equations cannot be useful in all population.
+The aim of this study was to determine a native equation with high accuracy for differential diagnosis of β-thal trait and iron deficiency anemia for the Sistan and Baluchestan population by logistic regression analysis.
+We selected 77 iron deficiency anemia and 100 β-thal trait cases.
+We used binary logistic regression analysis and determined best equations for probability prediction of β-thal trait against iron deficiency anemia in our population.
+We compared diagnostic values and receiver operative characteristic (ROC) curve related to this equation and another 10 published equations in discriminating β-thal trait and iron deficiency anemia.
+The binary logistic regression analysis determined the best equation for best probability prediction of β-thal trait against iron deficiency anemia with area under curve (AUC) 0.998.
+Based on ROC curves and AUC, Green & King, England & Frazer, and then Sirdah indices, respectively, had the most accuracy after our equation.
+We suggest that to get the best equation and cut-off in each region, one needs to evaluate specific information of each region, specifically in areas where populations are homogeneous, to provide a specific formula for differentiating between β-thal trait and iron deficiency anemia.
+ Reporting of surgical complications is common, but few provide information about the severity and estimate risk factors of complications.
+If have, but lack of specificity.
+We retrospectively analyzed data on 2795 gastric cancer patients underwent surgical procedure at the Affiliated Hospital of Qingdao University between June 2007 and June 2012, established multivariate logistic regression model to predictive risk factors related to the postoperative complications according to the Clavien-Dindo classification system.
+Twenty-four out of 86 variables were identified statistically significant in univariate logistic regression analysis, 11 significant variables entered multivariate analysis were employed to produce the risk model.
+Liver cirrhosis, diabetes mellitus, Child classification, invasion of neighboring organs, combined resection, introperative transfusion, Billroth II anastomosis of reconstruction, malnutrition, surgical volume of surgeons, operating time and age were independent risk factors for postoperative complications after gastrectomy.
+Based on logistic regression equation, p=Exp∑BiXi / (1+Exp∑BiXi), multivariate logistic regression predictive model that calculated the risk of postoperative morbidity was developed, p = 1/(1 + e((4.810-1.287X1-0.504X2-0.500X3-0.474X4-0.405X5-0.318X6-0.316X7-0.305X8-0.278X9-0.255X10-0.138X11))).
+The accuracy, sensitivity and specificity of the model to predict the postoperative complications were 86.7%, 76.2% and 88.6%, respectively.
+This risk model based on Clavien-Dindo grading severity of complications system and logistic regression analysis can predict severe morbidity specific to an individual patient's risk factors, estimate patients' risks and benefits of gastric surgery as an accurate decision-making tool and may serve as a template for the development of risk models for other surgical groups.
+ While many studies have investigated neck strain in helicopter aircrew, no one study has used a comprehensive approach involving multivariate analysis of questionnaire data in combination with physiological results related to the musculature of the cervical spine.
+There were 40 aircrew members who provided questionnaire results detailing lifetime prevalence of neck pain, flight history, physical fitness results, and physiological variables.
+Isometric testing data for flexion (Flx), extension (Ext), and right (RFlx) and left (LFlx) lateral flexion of the cervical spine that included maximal voluntary contraction (MVC) force and submaximal exercise at 70% MCV until time-to-fatigue (TTF) was also collected.
+Muscles responsible for the work performed were monitored with electromyography (EMG) and near-infrared spectroscopy (NIRS) and the associated ratings of perceived exertion (RPE) were collected simultaneously.
+Results were compiled and analyzed by logistic regression to identify the variables that were predictive of neck pain.
+While many variables were included in the logistic regression, the final regression equation required two, easy to measure variables.
+The longest single night vision goggle (NVG) mission (NVGmax; h) combined with the height of the aircrew member in meters (m) provided an accurate logistic regression equation for approximately one-half of our sample (N = 19).
+Cross-validation of the remaining subjects (N = 21) confirmed this accuracy.
+Our regression equation is simple and can be used by global operational units to provide a cursory assessment without the need for acquiring specialized equipment or training.
+ Motivated by an investigation of the effect of surface water temperature on the presence of Vibrio cholerae in water samples collected from different fixed surface water monitoring sites in Haiti in different months, we investigated methods to adjust for unmeasured confounding due to either of the two crossed factors site and month.
+In the process, we extended previous methods that adjust for unmeasured confounding due to one nesting factor (such as site, which nests the water samples from different months) to the case of two crossed factors.
+First, we developed a conditional pseudolikelihood estimator that eliminates fixed effects for the levels of each of the crossed factors from the estimating equation.
+Using the theory of U-Statistics for independent but non-identically distributed vectors, we show that our estimator is consistent and asymptotically normal, but that its variance depends on the nuisance parameters and thus cannot be easily estimated.
+Consequently, we apply our estimator in conjunction with a permutation test, and we investigate use of the pigeonhole bootstrap and the jackknife for constructing confidence intervals.
+We also incorporate our estimator into a diagnostic test for a logistic mixed model with crossed random effects and no unmeasured confounding.
+For comparison, we investigate between-within models extended to two crossed factors.
+These generalized linear mixed models include covariate means for each level of each factor in order to adjust for the unmeasured confounding.
+We conduct simulation studies, and we apply the methods to the Haitian data.
+Copyright © 2016 John Wiley & Sons, Ltd.
+ When analyzing longitudinal data, it is essential to account both for the correlation inherent from the repeated measures of the responses as well as the correlation realized on account of the feedback created between the responses at a particular time and the predictors at other times.
+As such one can analyze these data using generalized estimating equation with the independent working correlation.
+However, because it is essential to include all the appropriate moment conditions as you solve for the regression coefficients, we explore an alternative approach using a generalized method of moments for estimating the coefficients in such data.
+We develop an approach that makes use of all the valid moment conditions necessary with each time-dependent and time-independent covariate.
+This approach does not assume that feedback is always present over time, or if present occur at the same degree.
+Further, we make use of continuously updating generalized method of moments in obtaining estimates.
+We fit the generalized method of moments logistic regression model with time-dependent covariates using SAS PROC IML and also in R. We used p-values adjusted for multiple correlated tests to determine the appropriate moment conditions for determining the regression coefficients.
+We examined two datasets for illustrative purposes.
+We looked at re-hospitalization taken from a Medicare database.
+We also revisited data regarding the relationship between the body mass index and future morbidity among children in the Philippines.
+We conducted a simulated study to compare the performances of extended classifications.
+ Low specificity of PSA for early diagnosis of prostate cancer (PC) is the cause of search for new tests.
+The aim of our study was to develop the logistic regression model and estimate the value of the regression equation as a diagnostic tool for prostate cancer detection.
+A total of 518 male patients aged 47-83 years (mean 65.5 +/- 6.5 years) who had undergone TRUS-guided 12-core systematic transrectal prostate biopsy were included in the study.
+PC detection rate in our study was 43.8%.
+The logistic regression model with PC detection as a response and age, prostate volume, PSA, induration on DRE and hypoechoic lesion on TRUS as effects was designed.
+With regression equation PC probability for any patient was calculated.
+The regression equation was tested as a PC diagnostic tool.
+As the combination of model effects (chi-square 87.9; p < 0.0001; R2 = 0.124) any of the effects independently may predict prostate cancer detection.
+The obtained regression equation is: P(Pca) = 1/{1 + 2.718(-[-4.029 + (0.068 x AGE) + (0.022 x PSA) + (-0013 x PROSTATE VOLUME) + (0.375 x DRE) + (0.254 x TRUS)])} Accuracy (area under ROC-curve) of our regression equation as a PC detection diagnostic tool was 73%.
+Probability cutoff of 0.26 leads to sensitivity of 90% and specificity of 30% and eliminates 12% of unnecessary biopsies in patients with benign prostate diseases (chi-square 10.91; p < 0.0001).
+Thus, the obtained logistic regression equation may be used as a PC diagnostic tool in the suspects.
+Multicenter trial may improve regression equation diagnostic performance.
+ The authors derive a general equation to compute multiple cut-offs on a total test score in order to classify individuals into more than two ordinal categories.
+The equation is derived from the multinomial logistic regression (MLR) model, which is an extension of the binary logistic regression (BLR) model to accommodate polytomous outcome variables.
+From this analytical procedure, cut-off scores are established at the test score (the predictor variable) at which an individual is as likely to be in category j as in category j+1 of an ordinal outcome variable.
+The application of the complete procedure is illustrated by an example with data from an actual study on eating disorders.
+In this example, two cut-off scores on the Eating Attitudes Test (EAT-26) scores are obtained in order to classify individuals into three ordinal categories: asymptomatic, symptomatic and eating disorder.
+Diagnoses were made from the responses to a self-report (Q-EDD) that operationalises DSM-IV criteria for eating disorders.
+Alternatives to the MLR model to set multiple cut-off scores are discussed.
+ A possible means of decreasing prostate cancer mortality is through improved early detection.
+We attempted to create an equation to predict the likelihood of having prostate cancer.
+Between January 2005 and May 2008, patients who received prostate biopsies were retrospective evaluated.
+The relationship between the possibility of prostate cancer and the following variables were evaluated: age; serum prostate specific antigen (PSA) level, prostate volume, numbers of prostatic biopsies, digital rectal examination (DRE) findings, and the presence of hypoechoic nodule under transrectal ultrasonography.
+A multivariate regression model was created to predict the possibility of having prostate cancer, and a receiver-operating characteristic (ROC) curve was drawn based on the predictive scoring equation.
+Using a predictive equation, P=1/(1-e(-x)), where X=-4.88,+1.11 (if DRE positive),+0.75 (if hypoechoic nodule of prostate present),+1.27 (when 7<PSA≤10),+2.02 (when 10<PSA≤24),+2.28 (when 24<PSA≤50),+3.93 (when 50<PSA),+1.23 (when 65<age≤75),+1.66 (when 75<age), followed by ROC curve analysis, we showed that the sensitivity was 88.5% and specificity was 79.1% in predicting the possibility of prostate cancer.
+Clinicians can tailor each patient's follow-up according to the nomogram based on this equation to increase the efficacy of evaluating for prostate cancer.
+ To explore the method and performance of using multiple indices to diagnose sepsis and to predict the prognosis of severe ill patients.
+Critically ill patients at first admission to intensive care unit (ICU) of Changzheng Hospital, Second Military Medical University, from January 2014 to September 2015 were enrolled if the following conditions were satisfied: (1) patients were 18-75 years old; (2) the length of ICU stay was more than 24 hours; (3) All records of the patients were available.
+Data of the patients was collected by searching the electronic medical record system.
+Logistic regression model was formulated to create the new combined predictive indicator and the receiver operating characteristic (ROC) curve for the new predictive indicator was built.
+The area under the ROC curve (AUC) for both the new indicator and original ones were compared.
+The optimal cut-off point was obtained where the Youden index reached the maximum value.
+Diagnostic parameters such as sensitivity, specificity and predictive accuracy were also calculated for comparison.
+Finally, individual values were substituted into the equation to test the performance in predicting clinical outcomes.
+A total of 362 patients (218 males and 144 females) were enrolled in our study and 66 patients died.
+The average age was (48.3±19.3) years old.
+(1) For the predictive model only containing categorical covariants [including procalcitonin (PCT), lipopolysaccharide (LPS), infection, white blood cells count (WBC) and fever], increased PCT, increased WBC and fever were demonstrated to be independent risk factors for sepsis in the logistic equation.
+The AUC for the new combined predictive indicator was higher than that of any other indictor, including PCT, LPS, infection, WBC and fever (0.930 vs. 0.661, 0.503, 0.570, 0.837, 0.800).
+The optimal cut-off value for the new combined predictive indicator was 0.518.
+Using the new indicator to diagnose sepsis, the sensitivity, specificity and diagnostic accuracy rate were 78.00%, 93.36% and 87.47%, respectively.
+One patient was randomly selected, and the clinical data was substituted into the probability equation for prediction.
+The calculated value was 0.015, which was less than the cut-off value (0.518), indicating that the prognosis was non-sepsis at an accuracy of 87.47%.
+(2) For the predictive model only containing continuous covariants, the logistic model which combined acute physiology and chronic health evaluation II (APACHE II) score and sequential organ failure assessment (SOFA) score to predict in-hospital death events, both APACHE II score and SOFA score were independent risk factors for death.
+The AUC for the new predictive indicator was higher than that of APACHE II score and SOFA score (0.834 vs. 0.812, 0.813).
+The optimal cut-off value for the new combined predictive indicator in predicting in-hospital death events was 0.236, and the corresponding sensitivity, specificity and diagnostic accuracy for the combined predictive indicator were 73.12%, 76.51% and 75.70%, respectively.
+One patient was randomly selected, and the APACHE II score and SOFA score was substituted into the probability equation for prediction.
+The calculated value was 0.570, which was higher than the cut-off value (0.236), indicating that the death prognosis at an accuracy of 75.70%.
+The combined predictive indicator, which is formulated by logistic regression models, is superior to any single indicator in predicting sepsis or in-hospital death events.
+ To investigate the clinical features, characteristic of cochlear and vestibular dysfunction in Meniere's disease (MD) by using the multiple factor Logistic regression analysis.
+The clinical data of 36 patients with the diagnosis of Meniere's disease according to 2006 Guiyang standard and 30 patients with peripheral vestibular disorders were investigated.
+All subjects received audiologic and vestibular assessments, including pure tone audiometry, Metz's recruitment test, electrocochleography (ECochG), auditory brainstem response (ABR), glycerol test, vestibular caloric test, head shaking nystagmus (HSN) and fukuda stepping test.
+The clinical features and audiovestibular tests in Meniere's disease were investigated by chi square test, and then analyzed by using the multiple factor Logistic regression mode.
+(1) The fluctuating sensorineural hearing loss, the number of active symptoms, Tullio phenomenon,--SP/AP ratio, the Metz's recruitment test and the glycerol test demonstrated as the main characteristics in the discrimination between the MD group and non-MD group, the difference was statistically significant (P < 0.05).
+(2) The Logistic regression predictive equation for Meniere's disease was: Logit(p) = 9.443 + 3.110 X1 + 5.015 X2 + 2.506 X3 + 3.963 X4, in which the concomitant variables were curve of electrocochleography (EcochG) (X1), glycerol test (X2), the number of active symptoms (X3), the fluctuating sensorineural hearing loss (X4).
+The area under the ROC curve was 0.993.
+The percentage of correct prediction was 95.5%.
+The clinical features of Meniere's disease are distinguished, combined with audiovestibular tests, which can be differentiated from other peripheral vestibular disorders.
+The multiple factor Logistic regression predictive equation for Meniere's disease is an auxiliary diagnosis method.
+ While patients with acute uncomplicated appendicitis may be treated conservatively, those who suffer from complicated appendicitis require surgery.
+We describe a logistic regression equation to calculate the likelihood of acute uncomplicated appendicitis and complicated appendicitis in patients presenting to the emergency department with suspected acute appendicitis.
+A cohort of 895 patients who underwent appendicectomy were analysed retrospectively.
+Depending on the final histology, patients were divided into three groups; normal appendix, acute uncomplicated appendicitis and complicated appendicitis.
+Normal appendix was considered the reference category, while acute uncomplicated appendicitis and complicated appendicitis were the nominal categories.
+Multivariate and univariate regression models were undertaken to detect independent variables with significant odds ratio that can predict acute uncomplicated appendicitis and complicated appendicitis.
+Subsequently, a logistic regression equation was generated to produce the likelihood acute uncomplicated appendicitis and complicated appendicitis.
+Pathological diagnosis of normal appendix, acute uncomplicated appendicitis and complicated appendicitis was identified in 188 (21%), 525 (59%) and 182 patients (20%), respectively.
+The odds ratio from a univariate analysis to predict complicated appendicitis for age, female gender, log<sub>2</sub> white cell count, log<sub>2</sub> C-reactive protein and log<sub>2</sub> bilirubin were 1.02 (95% confidence interval, CI, 1.01, 1.04), 2.37 (95% CI 1.51, 3.70), 9.74 (95% CI 5.41, 17.5), 1.57 (95% CI 1.40, 1.74), 2.08 (95% CI 1.56, 2.76), respectively.
+For the same variable, similar odds ratios were demonstrated in a multivariate analysis to predict complicated appendicitis and univariate and multivariate analysis to predict acute uncomplicated appendicitis.
+The likelihood of acute uncomplicated appendicitis and complicated appendicitis can be calculated by using the reported predictive equations integrated into a web application at www.appendistat.com.
+This will enable clinicians to determine the probability of appendicitis and the need for urgent surgery in case of complicated appendicitis.
+This work would have not been completed without the help of: Clarissa Y. M. Carvallho, Consultant Anaesthetist at Guy's and St Thomas's Hospital; Bried O'Brien, the Head of Urgent Care Transformation at University College London Hospital; and Guang's Wu, Web Application Developer.
+Their contribution to building the web application allowed this work to materialise into clinical use to benefit patients.
+ This study analysed the influence of clinical factors on early postoperative seizures in patients with meningiomas and constructed a logistic regression equation for assessing risk factors.
+Clinical data from 222 patients with meningiomas were collected.
+The odds ratios (ORs) for independent  variables were determined: the ORs for preoperative seizure history and movement disorder were > 1, whereas the OR for prophylactic therapy was < 1.
+A logistic regression analysis was then performed to select potential risk factors for early postoperative seizures.
+Five variables (preoperative  seizure history, movement disorder, tumour location, primary location of initial tumour and prophylactic therapy) were introduced into the regression model.
+A logistic regression equation was then constructed that had a positive predictive value of 66.65% and a negative predictive value of  84.95%.
+This suggested that the five variables introduced in the equation were closely associated with early postoperative seizures, with preoperative seizure history and movement disorder as potential risk factors and prophylactic therapy as a protective factor.
+ This research aimed to propose a logistic regression model for Japanese blunt trauma victims.
+We tested whether the logistic regression model previously created from data registered in the Japan Trauma Data Bank between 2005 and 2008 is still valid for the data from the same data bank between 2009 and 2013.
+Additionally, we analyzed whether the model would be highly accurate even when its coefficients were rounded off to two decimal places.
+The model was proved to be highly accurate (94.56%) in the recent data (2009-2013).
+We also showed that the model remains valid without respiratory rate data and the simplified model would maintain high accuracy.
+We propose the equation of survival prediction of blunt trauma victims in Japan to be Ps = 1/(1+e<sup>-b</sup>), where b = -0.76 + 1.03 × Revised Trauma Score - 0.07 × Injury Severity Score - 0.04 × age.
+ To investigate a method for quantitative differential diagnosis of damp-heat and cold-damp impeding syndrome of rheumatoid arthritis (RA) in Chinese medicine (CM).
+Laboratory parameters were collected from 306 patients with RA.
+The clinical symptoms and laboratory parameters were compared between patients with these two syndromes (158 with RA of damp-heat impeding syndrome, and 148 with RA of cold-damp impeding syndrome), and a regression equation was established to facilitate discrimination of the two RA syndromes.
+There were significant differences in disease activity score in 28 joints [DAS28 (4)], erythrocyte sedimentation rate (ESR), white blood cell count (WBC), C-reactive protein (CRP), platelet count (PLT), albumin (ALB) and globulin (GLB) between the two syndrome of RA (P<0.05).
+Logistic regression analysis showed that the parameters ESR, WBC, CRP, joint pyrexia, joint cold, thirst, sweating, aversion to wind and cold, and cold extremities were statistically useful to discriminate damp-heat from cold-damp impeding syndrome.
+The regression equation was as follows: P=1/{1+exp[-(3.0-0.021X                            (1)-0.196X                            (2)-0.163X                            (3)-1.559X                            (4)+1.504X                            (5)-0.927X                            (6)-1.039X                            (7)+1.070X                            (8)+1.330X                            (9))]}.
+The independent variables X                            (1)-X                            (9) were ESR, WBC, CRP, hot joint, cold joint, thirst, sweating, aversion to wind and cold, and cold limbs.
+A P value > 0.5 signified cold-damp impeding syndrome, and a P value < 0.5 signified damp-heat impeding syndrome.
+The accuracy was 90.2%.
+The regression equation may be useful for discriminating damp-heat from cold-damp impeding syndrome of RA.
+ Stunting is the core measure of child health inequalities as it reveals multiple dimensions of child health and development status.
+The main focus of this study is to show the procedure of selecting the most appropriate logistic regression model for stunting by developing and comparing several plausible models, which ultimately helps to identify the predictors of childhood stunting in Bangladesh.
+This study utilizes child anthropometric data collected in the 2014 Bangladesh Demographic and Health Survey.
+Valid height-for-age anthropometric indices were available for a total of 6,931 children aged 0-59 months, of which about 36% were stunted.
+Ordinary logistic, survey logistic, marginal logistic, and random intercept logistic regression models were developed assuming independence, sampling design, cluster effect, and hierarchy of the data.
+Based on a number of model selection criteria, random intercept logistic model is found the most appropriate for the studied children.
+A number of child, mother, household, regional, and community-level variables were included in the model specification.
+The factors that increased the odds of stunting are children older than 11 months, short birth interval, recent morbidity of children, lower maternal education, young maternity, lower maternal body mass index, poor household wealth, urban residential place, and living in Sylhet division.
+Findings of this study recommend to utilize an appropriate logistic model considering the issues relevant to the data, particularly sampling design and clustering for determining the risk factors of childhood stunting in Bangladesh.
+ The goal of this study was to establish a biomathematical model to accurately predict the probability of aneurysm rupture.
+Biomathematical models incorporate various physical and dynamic phenomena that provide insight into why certain aneurysms grow or rupture.
+Prior studies have demonstrated that regression models may determine which parameters of an aneurysm contribute to rupture.
+In this study, the authors derived a modified binary logistic regression model and then validated it in a distinct cohort of patients to assess the model's stability.
+Patients were examined with CT angiography.
+Three-dimensional reconstructions were generated and aneurysm height, width, and neck size were obtained in 2 orthogonal planes.
+Forward stepwise binary logistic regression was performed and then applied to a prospective cohort of 49 aneurysms in 37 patients (not included in the original derivation of the equation) to determine the log-odds of rupture for this aneurysm.
+A total of 279 aneurysms (156 ruptured and 123 unruptured) were observed in 217 patients.
+Four of 6 linear dimensions and the aspect ratio were significantly larger (each with p < 0.01) in ruptured aneurysms than unruptured aneurysms.
+Calculated volume and aneurysm location were correlated with rupture risk.
+Binary logistic regression applied to an independent prospective cohort demonstrated the model's stability, showing 83% sensitivity and 80% accuracy.
+This binary logistic regression model of aneurysm rupture identified the status of an aneurysm with good accuracy.
+The use of this technique and its validation suggests that biomorphometric data and their relationships may be valuable in determining the status of an aneurysm.
+ To analyze the relationship between TCM's characteristics and treatment of cardiovascular diseases on the basis of the modem medical research literatures about treatment of cardiovascular diseases and establish a mathematic model in order to give reference for clinical study and clinical prescription for treatment of cardiovascular diseases with TCMs.
+Articles on treatment of cardiovascular diseases with TCMs published at home in the past 20 years were collected and screened to summarize the number of TCMs with different function, property, flavor, channel tropism and the number of them with the therapeutically effect on cardiovascular diseases.
+And a mathematic model was established on the multivariate discriminatory analysis.
+Medicines for activating blood circulation and removing blood stasis (21.21%), those restoring deficiency (17.65%), those attributive to heart channel (21.82%) and those attributive to spleen channel (16.
+11%) were relatively active in study for treatment of cardiovascular diseases and showed great difference (P < 0.05).
+According to findings of the logistic regression screen, TCMs attribute to heart, spleen, gallbladder, pericardium channel and those restoring deficiency were important impact factors with therapeutically effect on cardiovascular diseases (regression coefficient > 0 and P < 0.05).
+The coincidence was 91.6% between mathematical computing and original classification, indicating the coincidence with relevant theories of the traditional Chinese medical science.
+A more objective Logistic regression equation with a higher accuracy rate of retrospective inspection is established to detect the effect of TCMs with different characteristics on cardiovascular diseases.
+It is suggested that more experiments and clinical comparative studies on treatment of cardiovascular diseases with TMCs shall be included in pharmacopeia.
+ Hemorrhagic shock is a common cause of death in emergency rooms.
+Since the symptoms of hemorrhagic shock occur after shock has considerably progressed, it is difficult to diagnose shock early.
+The purpose of this study was to improve early diagnosis of hemorrhagic shock using a survival prediction model in rats.
+We measured ECG, blood pressure, respiration and temperature in 45 Sprague-Dawley rats, and then obtained a logistic regression equation predicting survival rates.
+Area under the ROC curves was 0.99.
+The Hosmer-Lemeshow goodness-of-fit chi-square was 0.86 (degree of freedom=8, p=0.999).
+Applying the determined optimal boundary value of 0.25, the accuracy of survival prediction was 94.7%.
+ To develop and validate a general method (called regression risk analysis) to estimate adjusted risk measures from logistic and other nonlinear multiple regression models.
+We show how to estimate standard errors for these estimates.
+These measures could supplant various approximations (e.g., adjusted odds ratio [AOR]) that may diverge, especially when outcomes are common.
+Regression risk analysis estimates were compared with internal standards as well as with Mantel-Haenszel estimates, Poisson and log-binomial regressions, and a widely used (but flawed) equation to calculate adjusted risk ratios (ARR) from AOR.
+Data sets produced using Monte Carlo simulations.
+Regression risk analysis accurately estimates ARR and differences directly from multiple regression models, even when confounders are continuous, distributions are skewed, outcomes are common, and effect size is large.
+It is statistically sound and intuitive, and has properties favoring it over other methods in many cases.
+Regression risk analysis should be the new standard for presenting findings from multiple regression analysis of dichotomous outcomes for cross-sectional, cohort, and population-based case-control studies, particularly when outcomes are common or effect size is large.
+ Logistic regression is among the most widely used statistical methods for linear discriminant analysis.
+In many applications, we only observe possibly mislabeled responses.
+Fitting a conventional logistic regression can then lead to biased estimation.
+One common resolution is to fit a mislabel logistic regression model, which takes into consideration of mislabeled responses.
+Another common method is to adopt a robust M-estimation by down-weighting suspected instances.
+In this work, we propose a new robust mislabel logistic regression based on γ-divergence.
+Our proposal possesses two advantageous features: (1) It does not need to model the mislabel probabilities.
+(2) The minimum γ-divergence estimation leads to a weighted estimating equation without the need to include any bias correction term, that is, it is automatically bias-corrected.
+These features make the proposed γ-logistic regression more robust in model fitting and more intuitive for model interpretation through a simple weighting scheme.
+Our method is also easy to implement, and two types of algorithms are included.
+Simulation studies and the Pima data application are presented to demonstrate the performance of γ-logistic regression.
+ To develop and validate an empirical equation to screen for dysglycaemia [impaired fasting glucose (IFG), impaired glucose tolerance (IGT) and undiagnosed diabetes].
+A predictive equation was developed using multiple logistic regression analysis and data collected from 1032 Egyptian subjects with no history of diabetes.
+The equation incorporated age, sex, body mass index (BMI), post-prandial time (self-reported number of hours since last food or drink other than water), systolic blood pressure, high-density lipoprotein (HDL) cholesterol and random capillary plasma glucose as independent covariates for prediction of dysglycaemia based on fasting plasma glucose (FPG)>or=6.1 mmol/l and/or plasma glucose 2 h after a 75-g oral glucose load (2-h PG)>or=7.8 mmol/l.
+The equation was validated using a cross-validation procedure.
+Its performance was also compared with static plasma glucose cut-points for dysglycaemia screening.
+The predictive equation was calculated with the following logistic regression parameters: P=1+1/(1+e-X)=where X=-8.3390+0.0214 (age in years)+0.6764 (if female)+0.0335 (BMI in kg/m2)+0.0934 (post-prandial time in hours)+0.0141 (systolic blood pressure in mmHg)-0.0110 (HDL in mmol/l)+0.0243 (random capillary plasma glucose in mmol/l).
+The cut-point for the prediction of dysglycaemia was defined as a probability>or=0.38.
+The equation's sensitivity was 55%, specificity 90% and positive predictive value (PPV) 65%.
+When applied to a new sample, the equation's sensitivity was 53%, specificity 89% and PPV 63%.
+This multivariate logistic equation improves on currently recommended methods of screening for dysglycaemia and can be easily implemented in a clinical setting using readily available clinical and non-fasting laboratory data and an inexpensive hand-held programmable calculator.
+ A set of 69 concentration-response curves from 5 acute ecotoxicity assays was fitted with a 2-parameter logistic equation.
+High correlation between values of regression parameters suggested similar slopes of the curves.
+This enabled derivation of the empirical single-parameter logistic equation with the sole median effective concentration (EC50) parameter.
+Such an equation might be useful in the evaluation of lower-quality (preliminary) experimental data and for the reduction of the number of test organisms and of testing costs.
+ The standard methods for regression analyses of clustered riverine larval habitat data of <i>Simulium damnosum s.l.</i> a major black-fly vector of Onchoceriasis, postulate models relating observational ecological-sampled parameter estimators to prolific habitats without accounting for residual intra-cluster error correlation effects.
+Generally, this correlation comes from two sources: (1) the design of the random effects and their assumed covariance from the multiple levels within the regression model; and, (2) the correlation structure of the residuals.
+Unfortunately, inconspicuous errors in residual intra-cluster correlation estimates can overstate precision in forecasted <i>S.damnosum s.l.</i> riverine larval habitat explanatory attributes regardless how they are treated (e.g., independent, autoregressive, Toeplitz, etc).
+In this research, the geographical locations for multiple riverine-based <i>S.
+damnosum s.l.</i> larval ecosystem habitats sampled from 2 pre-established epidemiological sites in Togo were identified and recorded from July 2009 to June 2010.
+Initially the data was aggregated into proc genmod.
+An agglomerative hierarchical residual cluster-based analysis was then performed.
+The sampled clustered study site data was then analyzed for statistical correlations using Monthly Biting Rates (MBR).
+Euclidean distance measurements and terrain-related geomorphological statistics were then generated in ArcGIS.
+A digital overlay was then performed also in ArcGIS using the georeferenced ground coordinates of high and low density clusters stratified by Annual Biting Rates (ABR).
+This data was overlain onto multitemporal sub-meter pixel resolution satellite data (i.e., QuickBird 0.61m wavbands ).
+Orthogonal spatial filter eigenvectors were then generated in SAS/GIS.
+Univariate and non-linear regression-based models (i.e., Logistic, Poisson and Negative Binomial) were also employed to determine probability distributions and to identify statistically significant parameter estimators from the sampled data.
+Thereafter, Durbin-Watson test statistics were used to test the null hypothesis that the regression residuals were not autocorrelated against the alternative that the residuals followed an autoregressive process in AUTOREG.
+Bayesian uncertainty matrices were also constructed employing normal priors for each of the sampled estimators in PROC MCMC.
+The residuals revealed both spatially structured and unstructured error effects in the high and low ABR-stratified clusters.
+The analyses also revealed that the estimators, levels of turbidity and presence of rocks were statistically significant for the high-ABR-stratified clusters, while the estimators distance between habitats and floating vegetation were important for the low-ABR-stratified cluster.
+Varying and constant coefficient regression models, ABR- stratified GIS-generated clusters, sub-meter resolution satellite imagery, a robust residual intra-cluster diagnostic test, MBR-based histograms, eigendecomposition spatial filter algorithms and Bayesian matrices can enable accurate autoregressive estimation of latent uncertainity affects and other residual error probabilities (i.e., heteroskedasticity) for testing correlations between georeferenced <i>S.
+damnosum s.l.</i> riverine larval habitat estimators.
+The asymptotic distribution of the resulting residual adjusted intra-cluster predictor error autocovariate coefficients can thereafter be established while estimates of the asymptotic variance can lead to the construction of approximate confidence intervals for accurately targeting productive <i>S.
+damnosum s.l</i> habitats based on spatiotemporal field-sampled count data.
+ Several model types have already been developed to describe the boundary between growth and no growth conditions.
+In this article two types were thoroughly studied and compared, namely (i) the ordinary (linear) logistic regression model, i.e., with a polynomial on the right-hand side of the model equation (type I) and (ii) the (nonlinear) logistic regression model derived from a square root-type kinetic model (type II).
+The examination was carried out on the basis of the data described in Vermeulen et al.
+[Vermeulen, A., Gysemans, K.P.M., Bernaerts, K., Geeraerd, A.H., Van Impe, J.F., Debevere, J., Devlieghere, F., 2006-this issue.
+Influence of pH, water activity and acetic acid concentration on Listeria monocytogenes at 7 degrees C: data collection for the development of a growth/no growth model.
+International Journal of Food Microbiology.
+.].
+These data sets consist of growth/no growth data for Listeria monocytogenes as a function of water activity (0.960-0.990), pH (5.0-6.0) and acetic acid percentage (0-0.8% (w/w)), both for a monoculture and a mixed strain culture.
+Numerous replicates, namely twenty, were performed at closely spaced conditions.
+In this way detailed information was obtained about the position of the interface and the transition zone between growth and no growth.
+The main questions investigated were (i) which model type performs best on the monoculture and the mixed strain data, (ii) are there differences between the growth/no growth interfaces of monocultures and mixed strain cultures, (iii) which parameter estimation approach works best for the type II models, and (iv) how sensitive is the performance of these models to the values of their nonlinear-appearing parameters.
+The results showed that both type I and II models performed well on the monoculture data with respect to goodness-of-fit and predictive power.
+The type I models were, however, more sensitive to anomalous data points.
+The situation was different for the mixed strain culture.
+In that case, the type II models could not describe the curvature in the growth/no growth interface which was reversed to the typical curvatures found for monocultures.
+This unusual curvature may originate from the fact that (i) an interface of a mixed strain culture can result from the superposition of the interfaces of the individual strains, or that (ii) only a narrow range of the growth/no growth interface was studied (the local trend can be different from the trend over a wider range).
+It was also observed that the best type II models were obtained with the flexible nonlinear logistic regression, although reasonably good models were obtained with the less flexible linear logistic regression with the nonlinear-appearing parameters fixed at experimentally determined values.
+Finally, it was found that for some of the nonlinear-appearing parameters, deviations from their experimentally determined values did not influence the model fit.
+This was probably caused by the fact that only a limited part of the growth/no growth interface was studied.
+ The authors have previously developed a logistic regression equation to predict the odds that a human T-cell lymphotropic virus type 1 (HTLV-1)-infected individual of specified genotype, age, and provirus load has HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP) in southern Japan.
+This study evaluated whether this equation is useful predictor for monitoring asymptomatic HTLV-1-seropositive carriers (HCs) in the same population.
+The authors genotyped 181 HCs for each HAM/TSP-associated gene (tumor necrosis factor [TNF]-alpha-863A/C, stromal cell-derived factor 1 (SDF-1) +801G/A, human leukocyte antigen [HLA]-A*02, HLA-Cw*08, HTLV-1 tax subgroup) and measured HTLV-1 provirus load in peripheral blood mononuclear cells using real-time polymerase chain reaction (PCR).
+Finally, the odds of HAM/TSP for each subject were calculated by using the equation and compared the results with clinical symptoms and laboratory findings.
+Although no clear difference was seen between the odds of HAM/TSP and either sex, family history of HAM/TSP or adult T-cell lenkemia (ATL), history of blood transfusion, it was found that brisk patellar deep tendon reflexes, which suggest latent central nervous system compromise, and flower cell-like abnormal lymphocytes, which is the morphological characteristic of ATL cells, were associated with a higher odds of HAM/TSP.
+The best-fit logistic regression equation may be useful for detecting subclinical abnormalities in HCs in southern Japan.
+ The latest methods in estimating the probability (absolute risk) of osteoporotic fractures include several logistic regression models, based on qualitative risk factors plus bone mineral density (BMD), and the probability estimate of fracture in the future.
+The Slovak logistic regression model, in contrast to other models, is created from quantitative variables of the proximal femur (in International System of Units) and estimates the probability of fracture by fall.
+The first objective of this study was to order selected independent variables according to the intensity of their influence (statistical significance) upon the occurrence of values of the dependent variable: femur strength index (FSI).
+The second objective was to determine, using logistic regression, whether the odds of FSI acquiring a pathological value (femoral neck fracture by fall) increased or declined if the value of the variables (T-score total hip, BMI, alpha angle, theta angle and HAL) were raised by one unit.
+Bone densitometer measurements using dual energy X-ray absorptiometry (DXA), (Prodigy, Primo, GE, USA) of the left proximal femur were obtained from 3 216 East Slovak women with primary or secondary osteoporosis or osteopenia, aged 20-89 years (mean age 58.9; 95% CI: -58.42; 59.38).
+The following variables were measured: FSI, T-score total hip BMD, body mass index (BMI), as were the geometrical variables of proximal femur alpha angle (α angle), theta angle (θ angle), and hip axis length (HAL).
+Logistic regression was used to measure the influence of the independent variables (T-score total hip, alpha angle, theta angle, HAL, BMI) upon the dependent variable (FSI).
+The order of independent variables according to the intensity of their influence (greatest to least) upon the occurrence of values of the dependent FSI variable was found to be: BMI, theta angle, T-score total hip, alpha angle, and HAL.
+An increase of one unit of an independent variable was shown, with statistical significance, to either raise or decrease the odds of the dependent FSI variable.
+Specific findings were as follows: an increase by 1° of the α angle escalated the probability of FSI acquiring a pathological value by 1111 times; an increase by 1° of the θ angle was found to boost these odds 1231 times; an increase by 1 mm of the HAL was found to increase these odds by 1043 times; an increase by 1.0 kg/m(2) of the BMI raised the odds 1302 times; an increase by +1 standard deviation of the value of the T-score total hip subsequently decreased these odds 198 times.
+The equation of the Slovak regression model makes it possible in praxis to determine the probability or absolute risk of femoral neck fracture by fall at those densitometrical workplaces without a program for measuring the FSI variable.
+ This study was performed to develop an algorithm using polymorphisms of CYP2D6, p-gp, OPRM1, COMT and psychological variables to predict tramadol response in Chinese patients recovering from upper limb fracture internal fixation surgery.
+A total of 250 Han Chinese patients recovering from fracture in the upper limb were enrolled.
+CYP2D6*10, p-gp G2677T, p-gp C3435T, OPRM1 A118G and COMT Val158Met were detected by the ligase detection reaction (LDR) method.
+The algorithm was developed with binary logistic regression in cohort 1 (200 patients) and assessed with Wilcoxon signed-rank test in cohort 2 (50 patients).
+According to cohort 1, the predictive equation was calculated with the following logistic regression parameters: Logit (1) = 2.304-4.841 × (anxiety I) - 23.709 × (anxiety II) + 2.823 × (p-gp 3435CT) + 5.737 × (p-gp 3435 TT) - 1.586 × (CYP2D6*10 CT) - 4.542 × (CYP2D6*10 TT).
+The cutoff point for the prediction was defined as a probability value ≥0.5.
+The equation's positive predictive value is 90%.
+When applied to a new sample, the equation's positive predictive value is 86%.
+The Nagelkerke R² of the model is 0.819, the results of the Hosmer and Leme test show a value of 0.981.
+The nonparametric correlations between predicted and observed response showed significant correlation (coefficient = 0.879; p < 0.001).
+The algorithm we have developed might predict tramadol response in Chinese upper limb fracture patients.
+ Biochemical measures for assessment of insulin resistance are not cost-effective in resource-constrained developing countries.
+Using classification and regression tree (CART) and multivariate logistic regression, we aimed to develop simple predictive decision models based on routine clinical and biochemical parameters to predict insulin resistance in apparently healthy Asian Indian adolescents.
+Community based cross-sectional study.
+Data of apparently healthy 793 adolescents (aged 14-19 years) were used for analysis.
+WHO's multistage cluster sampling design was used for data collection.
+Homeostasis Model of Assessment value > 75th centile was used as cut-off for defining the main outcome variable insulin resistance.
+CART was used to develop the decision tree models and multivariate logistic regression used to develop the clinical prediction score.
+Three classification trees and an equation for prediction score were developed and internally validated.
+The three decision trees were termed as CART I, CART II and CART III, respectively.
+CART I based on anthropometric parameters alone has sensitivity 88.2%, specificity 50.1% and area under receiver operating characteristic curve (aROC) 77.8%.
+CART II based on anthropometric and routine biochemical parameters has sensitivity 94.5%, specificity 38.3% and aROC 73.6%.
+CART III based on all anthropometric, biochemical and clinical parameters together has sensitivity 70.7%, specificity 79.2% and aROC 77.4%.
+Prediction score for insulin resistance = 1 x (waist circumference) + 1.1 x (percentage body fat) + 1.6 x (triceps skin-fold thickness) - 1.9 x (gender).
+A score cut-off of > 0 (using values marked for each) was a marker of insulin resistance in the study population (sensitivity 82.4%, specificity 56.7%, and aROC 73.4%).
+These simple and cost-effective classification rules may be used to predict insulin resistance and implement population based preventive interventions in Asian Indian adolescents.
+ Fever occurring in a neutropenic patient remains a common life-threatening complication of cancer chemotherapy, and febrile neutropenia (FN) is recognized as a dose-limiting factor (DLF) in cancer chemotherapy.
+The aim of this study is to evaluate the significant covariate associated with the risk of FN occurrence in Japanese patients.
+A stepwise logistic regression was conducted using data from Japanese cancer patients treated with docetaxel.
+Based on those results, an equation was established which predicts the probability of FN occurrence.
+From the result of a stepwise multivariate logistic regression analysis, performance status factor (PS*), which is set to 1 if performance status factor is 2 or 3, and to 0 otherwise and area under the plasma concentration versus time curve (AUC) were selected as covariates significantly associated (p < 0.05) with FN occurrence.
+The obtained equation to predict the probability (P) of docetaxel-induced FN occurrence is P = 1/[1 + exp{-(1.29 x AUC + 1.41 x PS* -3.52)}].
+A receiver operating characteristic (ROC) curve analysis revealed that the best cut-off value of FN probability to differentiate between the presence and absence of FN was 0.61.
+An equation was developed to predict the probability of FN occurrence for Japanese patients treated with docetaxel.
+It was found that FN may not occur when the probability of FN occurrence calculated by the predictive equation is less than 0.61.
+Therefore, the predictive equation for FN occurrence may be used for selecting the appropriate dose to avoid the occurrence of FN.
+ Multivariate analysis was used to select the risk factors in non-insulin dependent diabetes mellitus (NIDDM) patients with oral candidosis, and to establish the forecasting equation, aimed to detect the risk of oral candidosis among NIDDM patients.
+140 NIDDM patients were included in this study.
+11 clinical parameters including gender, age, course smoking, fasting blood glucose, oral hygiene status, systemic manifestation, oral mucous membrane status, and denture were recorded respectively.
+Oral rinse technique was used to detect the salivary candidal carriage.
+The isolates were identified using CHROM agar Candida test.
+The Logistic multivariate regression analysis was carried our for risk factors analysis.
+Candida was found in 69 out of 140 NIDDM cases, and Candida albicans was the major species isolated.
+The poor glycemic control, poor oral hygiene, and dry mouth were the risk factors of oral candidosis in NIDDM patients, and the forecasting equation was established.
+Using substitution method, the veracity of the forecasting equation was 82.1%.
+Poor glycemic control, poor oral hygiene and dry mouth were risk factors of oral candidosis among NIDDM patients.
+The probability obtained from the forecasting equation may offer references for predicting and preventing the oral candidosis in NIDDM patients.
+ Predicting the presence of enteric viruses in surface waters is a complex modeling problem.
+Multiple water quality parameters that indicate the presence of human fecal material, the load of fecal material, and the amount of time fecal material has been in the environment are needed.
+This paper presents the results of a multiyear study of raw-water quality at the inlet of a potable-water plant that related 17 physical, chemical, and biological indices to the presence of enteric viruses as indicated by cytopathic changes in cell cultures.
+It was found that several simple, multivariate logistic regression models that could reliably identify observations of the presence or absence of total culturable virus could be fitted.
+The best models developed combined a fecal age indicator (the atypical coliform [AC]/total coliform [TC] ratio), the detectable presence of a human-associated sterol (epicoprostanol) to indicate the fecal source, and one of several fecal load indicators (the levels of Giardia species cysts, coliform bacteria, and coprostanol).
+The best fit to the data was found when the AC/TC ratio, the presence of epicoprostanol, and the density of fecal coliform bacteria were input into a simple, multivariate logistic regression equation, resulting in 84.5% and 78.6% accuracies for the identification of the presence and absence of total culturable virus, respectively.
+The AC/TC ratio was the most influential input variable in all of the models generated, but producing the best prediction required additional input related to the fecal source and the fecal load.
+The potential for replacing microbial indicators of fecal load with levels of coprostanol was proposed and evaluated by multivariate logistic regression modeling for the presence and absence of virus.
+ The objective of this study was to develop a probabilistic model to predict the end of lag time (λ) during the growth of Bacillus cereus vegetative cells as a function of temperature, pH, and salt concentration using logistic regression.
+The developed λ model was subsequently combined with a logistic differential equation to simulate bacterial numbers over time.
+To develop a novel model for λ, we determined whether bacterial growth had begun, i.e., whether λ had ended, at each time point during the growth kinetics.
+The growth of B. cereus was evaluated by optical density (OD) measurements in culture media for various pHs (5.5 ∼ 7.0) and salt concentrations (0.5 ∼ 2.0%) at static temperatures (10 ∼ 20°C).
+The probability of the end of λ was modeled using dichotomous judgments obtained at each OD measurement point concerning whether a significant increase had been observed.
+The probability of the end of λ was described as a function of time, temperature, pH, and salt concentration and showed a high goodness of fit.
+The λ model was validated with independent data sets of B. cereus growth in culture media and foods, indicating acceptable performance.
+Furthermore, the λ model, in combination with a logistic differential equation, enabled a simulation of the population of B. cereus in various foods over time at static and/or fluctuating temperatures with high accuracy.
+Thus, this newly developed modeling procedure enables the description of λ using observable environmental parameters without any conceptual assumptions and the simulation of bacterial numbers over time with the use of a logistic differential equation.
+ To find out HepB vaccine timely delivery factors influencing in newborns within 24 hours, provide a basic evidences for increasing the coverage of timely HepB vaccine.
+We established multinomial Logistic regression equation to analysis the factors with the investigation landform, delivery rate at hospital, occupation and education of child caretakers, ethnic,whether the child caretakers know children need vaccination and if the child caretakers bring children for vaccination.
+234 children received timely birth dose HepB among 852 children, timely coverage rate was 27.46%.
+Compare with 6.71% of children delivery at home, timely coverage of children delivery at township clinic and county clinic hospitals are 46.86% and 54.05% respectively.
+Multinomial logistic regression analysis showed that delivery hospitals (X1), education of child caretakers (X2) were the main influencing factors to the timely birth dose HepB vaccination, the investigation landform, occupation of child caretakers, ethnic, whether the child caretakers know children need vaccination and if the child caretakers bring children for vaccination on their own have relevancy with the timely to the timely birth dose HepB vaccination.
+The strategies such as increasing the rate of delivery at hospitals and putting more funding into publicity will facilitate increasing the coverage of timely birth dose HepB vaccination.
+ We employ a general bias preventive approach developed by Firth (Biometrika 1993; 80:27-38) to reduce the bias of an estimator of the log-odds ratio parameter in a matched case-control study by solving a modified score equation.
+We also propose a method to calculate the standard error of the resultant estimator.
+A closed-form expression for the estimator of the log-odds ratio parameter is derived in the case of a dichotomous exposure variable.
+Finite sample properties of the estimator are investigated via a simulation study.
+Finally, we apply the method to analyze a matched case-control data from a low birthweight study.
+ This paper considers inference methods for case-control logistic regression in longitudinal setups.
+The motivation is provided by an analysis of plains bison spatial location as a function of habitat heterogeneity.
+The sampling is done according to a longitudinal matched case-control design in which, at certain time points, exactly one case, the actual location of an animal, is matched to a number of controls, the alternative locations that could have been reached.
+We develop inference methods for the conditional logistic regression model in this setup, which can be formulated within a generalized estimating equation (GEE) framework.
+This permits the use of statistical techniques developed for GEE-based inference, such as robust variance estimators and model selection criteria adapted for non-independent data.
+The performance of the methods is investigated in a simulation study and illustrated with the bison data analysis.
+ Structural equation modelling (SEM) has been increasingly used in medical statistics for solving a system of related regression equations.
+However, a great obstacle for its wider use has been its difficulty in handling categorical variables within the framework of generalised linear models.
+A large data set with a known structure among two related outcomes and three independent variables was generated to investigate the use of Yule's transformation of odds ratio (OR) into Q-metric by (OR-1)/(OR+1) to approximate Pearson's correlation coefficients between binary variables whose covariance structure can be further analysed by SEM.
+Percent of correctly classified events and non-events was compared with the classification obtained by logistic regression.
+The performance of SEM based on Q-metric was also checked on a small (N = 100) random sample of the data generated and on a real data set.
+SEM successfully recovered the generated model structure.
+SEM of real data suggested a significant influence of a latent confounding variable which would have not been detectable by standard logistic regression.
+SEM classification performance was broadly similar to that of the logistic regression.
+The analysis of binary data can be greatly enhanced by Yule's transformation of odds ratios into estimated correlation matrix that can be further analysed by SEM.
+The interpretation of results is aided by expressing them as odds ratios which are the most frequently used measure of effect in medical statistics.
+ In the process of risk stratification, a logistic calculation of mortality risk in percentage is easier to interpret.
+Unfortunately, there is no reliable logistic model available for postoperative intensive care patients.
+The aim of this study was to present the first logistic model for postoperative mortality risk stratification in cardiac surgical intensive care units.
+This logistic version is based on our previously presented and established additive model (CASUS) that proved a very high reliability.
+In this prospective study, data from all adult patients admitted to our ICU after cardiac surgery over a period of three years (2007-2009) were collected.
+The Log-CASUS was developed by weighting the 10 variables of the additive CASUS and adding the number of postoperative day to the model.
+Risk of mortality is predicted with a logistic regression equation.
+Statistical performance of the two scores was assessed using calibration (observed/expected mortality ratio), discrimination (area under the receiver operating characteristic curve), and overall correct classification analyses.
+The outcome measure was ICU mortality.
+A total of 4054 adult cardiac surgical patients was admitted to the ICU after cardiac surgery during the study period.
+The ICU mortality rate was 5.8%.
+The discriminatory power was very high for both additive (0.865-0.966) and logistic (0.874-0.963) models.
+The logistic model calibrated well from the first until the 13th postoperative day (0.997-1.002), but the additive model over- or underestimated mortality risk (0.626-1.193).
+The logistic model shows statistical superiority.
+Because of the precise weighing the individual risk factors, it offers a reliable risk prediction.
+It is easier to interpret and to facilitate the integration of mortality risk stratification into the daily management more than the additive one.
+ Composite endpoints are commonplace in biomedical research.
+The complex nature of many health conditions and medical interventions demand that composite endpoints be employed.
+Different approaches exist for the analysis of composite endpoints.
+A Monte Carlo simulation study was employed to assess the statistical properties of various regression methods for analyzing binary composite endpoints.
+We also applied these methods to data from the BETTER trial which employed a binary composite endpoint.
+We demonstrated that type 1 error rates are poor for the Negative Binomial regression model and the logistic generalized linear mixed model (GLMM).
+Bias was minimal and power was highest in the binomial logistic regression model, the linear regression model, the Poisson (corrected for over-dispersion) regression model and the common effect logistic generalized estimating equation (GEE) model.
+Convergence was poor in the distinct effect GEE models, the logistic GLMM and some of the zero-one inflated beta regression models.
+Considering the BETTER trial data, the distinct effect GEE model struggled with convergence and the collapsed composite method estimated an effect, which was greatly attenuated compared to other models.
+All remaining models suggested an intervention effect of similar magnitude.
+In our simulation study, the binomial logistic regression model (corrected for possible over/under-dispersion), the linear regression model, the Poisson regression model (corrected for over-dispersion) and the common effect logistic GEE model appeared to be unbiased, with good type 1 error rates, power and convergence properties.
+ In dementia screening tests, item selection for shortening an existing screening test can be achieved using multiple logistic regression.
+However, maximum likelihood estimates for such logistic regression models often experience serious bias or even non-existence because of separation and multicollinearity problems resulting from a large number of highly correlated items.
+Firth (1993, Biometrika, 80(1), 27-38) proposed a penalized likelihood estimator for generalized linear models and it was shown to reduce bias and the non-existence problems.
+The ridge regression has been used in logistic regression to stabilize the estimates in cases of multicollinearity.
+However, neither solves the problems for each other.
+In this paper, we propose a double penalized maximum likelihood estimator combining Firth's penalized likelihood equation with a ridge parameter.
+We present a simulation study evaluating the empirical performance of the double penalized likelihood estimator in small to moderate sample sizes.
+We demonstrate the proposed approach using a current screening data from a community-based dementia study.
+ Development of policies and procedures to contend with the risks presented by elopement, aggression, and suicidal behaviors are long-standing challenges for mental health administrators.
+Guidance in making such judgments can be obtained through the use of a multivariate statistical technique known as logistic regression.
+This procedure can be used to develop a predictive equation that is mathematically formulated to use the best combination of predictors, rather than considering just one factor at a time.
+This paper presents an overview of logistic regression and its utility in mental health administrative decision making.
+A case example of its application is presented using data on elopements from Missouri's long-term state psychiatric hospitals.
+Ultimately, the use of statistical prediction analyses tempered with differential qualitative weighting of classification errors can augment decision-making processes in a manner that provides guidance and flexibility while wrestling with the complex problem of risk assessment and decision making.
+ In clinical research, suitable visualization techniques of data after statistical analysis are crucial for the researches' and physicians' understanding.
+Common statistical techniques to analyze data in clinical research are logistic regression models.
+Among these, the application of binary logistic regression analysis (LRA) has greatly increased during past years, due to its diagnostic accuracy and because scientists often want to analyze in a dichotomous way whether some event will occur or not.
+Such an analysis lacks a suitable, understandable, and widely used graphical display, instead providing an understandable logit function based on a linear model for the natural logarithm of the odds in favor of the occurrence of the dependent variable, Y.
+By simple exponential transformation, such a logit equation can be transformed into a logistic function, resulting in predicted probabilities for the presence of the dependent variable, P(Y-1/X).
+This model can be used to generate a simple graphical display for binary LRA.
+For the case of a single predictor or explanatory (independent) variable, X, a plot can be generated with X represented by the abscissa (i.e., horizontal axis) and P(Y-1/X) represented by the ordinate (i.e., vertical axis).
+For the case of multiple predictor models, I propose here a relief 3D surface graphic in order to plot up to four independent variables (two continuous and two discrete).
+By using this technique, any researcher or physician would be able to transform a lesser understandable logit function into a figure easier to grasp, thus leading to a better knowledge and interpretation of data in clinical research.
+For this, a sophisticated statistical package is not necessary, because the graphical display may be generated by using any 2D or 3D surface plotter.
+ Logistic regression is most often used to produce a cardiac operative risk model.
+But the logistic equation requires a computer to solve.
+Thus, simple additive models have been derived from logistic models by adding the odds ratios or modified coefficients.
+However, this simplification has no statistical justification, and the additive scores do not equal the original logistic probabilities.
+The EuroSCORE risk model is a very successful and widely used cardiac surgery risk model and it comes in both an additive and a full logistic version.
+We applied the EuroSCORE model to the 28,337 cardiac surgeries in the Providence Health System Cardiovascular Study Group database.
+The discrimination of the models was assessed by the c index.
+The comparison of the mortality predictions of the logistic and the additive model are mostly descriptive and graphical.
+Theoretical considerations would predict that the additive model greatly underestimates the risk for the higher risk patients, and clinical data confirm this fact.
+For the 23,463 (83%) cases with complete data, the predicted mortality was 8.3% by the logistic model and 5.4% by the additive model.
+The discrimination (c index) of the additive (0.794) and logistic (0.791) models was equally good.
+A modified additive score is proposed (the mean of the logistic predicted mortality for each original additive score) which could be provided as a look-up table along with the scoring sheet.
+The additive EuroSCORE gives excellent discrimination, as good as the logistic risk model, but it greatly underestimates the risk of high-risk patients, compared to the logistic.
+The logistic equation should be used to predicate the mortality when possible.
+If this is not feasible, a modified additive score could be employed at the bedside.
+But the logistic should always be used for comparison of providers and for research publications.
+ To identify potential prognostic factors for pulmonary thromboembolism (PTE), establishing a mathematical model to predict the risk for fatal PTE and nonfatal PTE.
+The reports on 4,813 consecutive autopsies performed from 1979 to 1998 in a Brazilian tertiary referral medical school were reviewed for a retrospective study.
+From the medical records and autopsy reports of the 512 patients found with macroscopically and/or microscopically documented PTE, data on demographics, underlying diseases, and probable PTE site of origin were gathered and studied by multiple logistic regression.
+Thereafter, the "jackknife" method, a statistical cross-validation technique that uses the original study patients to validate a clinical prediction rule, was performed.
+The autopsy rate was 50.2%, and PTE prevalence was 10.6%.
+In 212 cases, PTE was the main cause of death (fatal PTE).
+The independent variables selected by the regression significance criteria that were more likely to be associated with fatal PTE were age (odds ratio [OR], 1.02; 95% confidence interval [CI], 1.00 to 1.03), trauma (OR, 8.5; 95% CI, 2.20 to 32.81), right-sided cardiac thrombi (OR, 1.96; 95% CI, 1.02 to 3.77), pelvic vein thrombi (OR, 3.46; 95% CI, 1.19 to 10.05); those most likely to be associated with nonfatal PTE were systemic arterial hypertension (OR, 0.51; 95% CI, 0.33 to 0.80), pneumonia (OR, 0.46; 95% CI, 0.30 to 0.71), and sepsis (OR, 0.16; 95% CI, 0.06 to 0.40).
+The results obtained from the application of the equation in the 512 cases studied using logistic regression analysis suggest the range in which logit p > 0.336 favors the occurrence of fatal PTE, logit p < - 1.142 favors nonfatal PTE, and logit P with intermediate values is not conclusive.
+The cross-validation prediction misclassification rate was 25.6%, meaning that the prediction equation correctly classified the majority of the cases (74.4%).
+Although the usefulness of this method in everyday medical practice needs to be confirmed by a prospective study, for the time being our results suggest that concerning prevention, diagnosis, and treatment of PTE, strict attention should be given to those patients presenting the variables that are significant in the logistic regression model.
+ To investigate the outcome predictive factors of ruptured lumbar disc herniation after conservative treatment.
+From June 2009 to June 2016, 147 patients with ruptured lumbar intervertebral disc herniation were treated with conservative treatment in the orthopedics department of Suzhou Traditional Chinese Medicine Hospital for clinical efficacy and MRI follow-up.
+Multivariate Logistic regression analysis(Stepwise regression method)was used to analyze the relationship between the 11 categorical variables and absorptivity of protrusions: sex(X1), age(X2), course of disease(X3) , the rate of protrusion(X4), the Komori type(X5), the MSU type(X6), the Iwabuchi type(X7), the Pfirrmann grade(X8), the Modic change on adjacent vertebrae(X9), spinal canal morphology(X10), the Schizas types of cauda equina sedimentation sign(X11).
+A total of 64 cases of prominent reabsorption among all cases followed-up (absorption rate>=30%), accounting for 43.5%.
+The reabsorption of protrusions is more likely to occur in patients with a duration of less than 1 year(<i>P=</i>0.006), MSU type 3 (<i>P=</i>0.001), Iwabuchi type 1 or 5 (<i>P=</i>0.000), the Schizas type of cauda equina sedimentation sign A or B(<i>P=</i>0.004).
+Regression equation Y=-10.363+1.916X3+1.446X4-1.445X5+2.070X6+4.679X7+1.125X9+1.023X10+2.223X11.
+Such factors as age, gender, Pfirrmann classification and spinal canal morphology had no significant effect on reabsorption of protrusions.
+Ruptured lumbar disc herniation can be reabsorbed after nonoperative treatment.
+And the reabsorption of protrusions is more likely to occur in patients with a duration of less than 1 year, MSU type 3, Iwabuchi type 1 or 5, the Schizas type of cauda equina sedimentation sign A or B, which can be used as the key reference factors for predicting the outcome of the projections.
+ The standard model for the dynamics of a fragmented density-dependent population is built from several local logistic models coupled by migrations.
+First introduced in the 1970s and used in innumerable articles, this standard model applied to a two-patch situation has never been completely analysed.
+Here, we complete this analysis and we delineate the conditions under which fragmentation associated to dispersal is either beneficial or detrimental to total population abundance.
+Therefore, this is a contribution to the SLOSS question.
+Importantly, we also show that, depending on the underlying mechanism, there is no unique way to generalize the logistic model to a patchy situation.
+In many cases, the standard model is not the correct generalization.
+We analyse several alternative models and compare their predictions.
+Finally, we emphasize the shortcomings of the logistic model when written in the r-K parameterization and we explain why Verhulst's original polynomial expression is to be preferred.
+ The Hill equation is often used in dose-response or exposure-response modeling.
+Aliases for the Hill model include the Emax model, and the Michaelis-Menten model.
+There is confusion about the appropriate parameterization, how to interpret the parameters, what the meaning is of the various parameterizations found in the literature, and which parameterization best approximates the statistical inferences produced when fitting the Hill equation to data.
+In this paper, we present several equivalent versions of the Hill model; show that they are equivalent in terms of yielding the same prediction for a given dose, and are equivalent to the four-parameter logistic model in this same sense; and deduce which parameterization is optimal in the sense of having the least statistical curvature and preferable multicollinearity.
+ To apply logistic regression analysis for several clinical and sonographic data for the construction of a predictive model that could be helpful in the preoperative differentiation of adnexal masses.
+Two hundred and eight women with tumors thought to be of adnexal origin were examined preoperatively.
+Initial analysis included age and menopausal status, ultrasound derived morphological features of adnexal masses (unilateral/bilateral tumors, papillae, septae, tumor size and volume) as well as color Doppler criteria such as PI, RI, Peak Systolic Velocity, PSV assessment.
+In all examinations we used B&K 2002 ADI (Denmark) and Kretz Voluson V730 (Austria) scanners with transvaginal probes 5-9 MHz.
+Stepwise logistic regression analysis was used to construct a predictive model that would allow probability of malignancy calculation for individual patient.
+There were 159 benign and 49 malignant masses.
+Seven cancers were in FIGO stage one.
+Statistical analysis revealed that only 5 of initially tested 14 variables had significant influence on the regression equation.
+These were: age, bilateral mass, presence of septa > 3 mm, papillary projections > 3 mm in the tumor wall and subjective color scale assessment according to Timmerman et al.
+(1999).
+Sensitivity and specificity at the 50% probability level of malignancy in the studied tumor were 77.5% and 96.8%, respectively.
+When 25% cut-off probability level was used, sensitivity increased to 87.7% and specificity dropped to 89.9%.
+Prospective testing in a new group of 30 patients (5 ovarian cancers) gave sensitivity of 80% and specificity of 100%.
+The use of logistic regression analysis can help in modeling clinical and sonographic data.
+Our model had better predictive value than individual tests and allowed to calculate true probability figure of ovarian malignancy for any given patient with adnexal mass.
+ Comparison of patient-reported outcomes may be invalidated by the occurrence of item bias, also known as differential item functioning.
+We show two ways of using structural equation modeling (SEM) to detect item bias: (1) multigroup SEM, which enables the detection of both uniform and nonuniform bias, and (2) multidimensional SEM, which enables the investigation of item bias with respect to several variables simultaneously.
+Gender- and age-related bias in the items of the Hospital Anxiety and Depression Scale (HADS; Zigmond and Snaith in Acta Psychiatr Scand 67:361-370, 1983) from a sample of 1068 patients was investigated using the multigroup SEM approach and the multidimensional SEM approach.
+Results were compared to the results of the ordinal logistic regression, item response theory, and contingency tables methods reported by Cameron et al.
+(Qual Life Res 23:2883-2888, 2014).
+Both SEM approaches identified two items with gender-related bias and two items with age-related bias in the Anxiety subscale, and four items with age-related bias in the Depression subscale.
+Results from the SEM approaches generally agreed with the results of Cameron et al., although the SEM approaches identified more items as biased.
+SEM provides a flexible tool for the investigation of item bias in health-related questionnaires.
+Multidimensional SEM has practical and statistical advantages over multigroup SEM, and over other item bias detection methods, as it enables item bias detection with respect to multiple variables, of various measurement levels, and with more statistical power, ultimately providing more valid comparisons of patients' well-being in both research and clinical practice.
+ Many clinical guidelines recommend apolipoprotein B (apoB) measurement, particularly in subjects with metabolic syndrome or type 2 diabetes.
+Recently, we developed a new equation to estimate serum apoB (apoBE).
+We validated the clinical relevance of apoBE and compared the performance of the equation with conventional lipid measurements and direct measurement of apoB.
+Study subjects were recruited from patients who visited the Health Screening Center at Kangbuk Samsung Hospital between January and December 2009 for routine medical examinations (n=78125).
+For analysis of coronary calcium score, we recruited study subjects from the same institution between January 2007 and December 2010 (n=16493).
+apoBE was significantly correlated with serum high-sensitivity C-reactive level {r=0.18 [95% confidence interval (CI), 0.18-0.19]} in partial correlation analysis adjusted for age, sex, and body mass index.
+apoBE was associated with a Framingham risk score indicating more than moderate risk (10-year risk ≥10%), the presence of microalbuminuria, and the presence of coronary artery calcium in multivariate logistic regression analysis.
+These associations were comparable to those of directly-measured serum apoB [odds ratio per 1 SD 3.02 (2.75-3.27) vs. 2.70 (2.42-3.02) for a Framingham risk score indicating more than moderate risk, 1.31 (1.21-1.41) vs. 1.35 (1.25-1.45) for the presence of microalbuminuria, and 1.33 (1.26-1.41) vs. 1.31 (1.23-1.38) for the presence of coronary calcium score respectively].
+These findings were also consistently observed in subgroup analysis for subjects with type 2 diabetes.
+The associations between cardiovascular surrogate markers and apoBE were comparable to those of directly-measured apoB.
+ To develop a predictive equation to screen for vertical root fractures (VRFs) by numerically evaluating the shapes of radiolucent areas on the periapical radiographs of endodontically treated maxillary incisors and premolars.
+41 pre-operative periapical radiographs of maxillary incisors and premolars with radiolucent areas at root apices were used.
+Out of 41 teeth, 18 had a fractured root (VRF group) and 23 had a non-fractured root (non-VRF group).
+The periapical radiolucent area of each tooth was traced out by six examiners on a personal computer and two indices, "Complexity" and "Radial SD", were measured.
+For each index, the difference between the VRF and non-VRF groups and the interexaminer differences were analysed with two-way ANOVA at 5% significance level.
+Multiple logistic regression analysis was used to develop a predictive equation and the probability of VRF in all samples was calculated.
+A receiver operating characteristic (ROC) curve was constructed to select the optimal cut-point.
+Each sample was predicted as "VRF" or "non-VRF" with this cut-point.
+For both "Complexity" and "Radial SD", the VRF group showed significantly greater values than the non-VRF group (P<0.05).
+With a cut-point derived from the ROC curve, sensitivity, specificity and efficiency of VRF were 0.68, 0.80 and 0.75, respectively.
+VRF teeth have more complicated radiolucent areas compared with non-VRF teeth.
+By evaluating the shapes of radiolucent areas, a logistic regression equation to screen for VRF was calculated and this equation could contribute to the diagnosis of VRF.
+ A logistic regression equation for the vacuous pulse and the replete pulse was determined based on data obtained using a clip-type pulsimeter equipped with a Hall device that sensed the change in the magnetic field due to the minute movement of a radial artery.
+To evaluate the efficacy of the two different pulses from the deficiency and the excess syndrome groups, we performed a clinical trial, and we used a statistical regression analysis to process the clinical data from the 180 participants who were enrolled in this study.
+The ratio of the systolic peak's amplitude to its time in the pulse's waveform was found to be a major efficacy parameter for differentiating between the vacuous pulse and the replete pulse using an empirical equation that was deduced from the data using a statistical logistic regression method.
+This logistic regression equation can be applied to develop a novel algorithm for pulse measurements based on Oriental medical diagnoses.
+ Methods for direct measurement of glomerular filtration rate (GFR) are expensive and inconsistently applied across transplant centers.
+The Modified Diet in Renal Disease (MDRD) equation is commonly used for GFR estimation, but is inaccurate for GFRs >60 ml/min per 1.73 m(2).
+The Chronic Kidney Disease Epidemiology Collaboration (CKDEPI) and Wright equations have shown improved predictive capabilities in some patient populations.
+We compared these equations to determine which one correlates best with direct GFR measurement in lung transplant candidates.
+We conducted a retrospective cohort analysis of 274 lung transplant recipients.
+Pre-operative GFR was measured directly using a radionuclide GFR assay.
+Results from the MDRD, CKDEPI, Wright, and Cockroft-Gault equations were compared with direct measurement.
+Findings were validated using logistic regression models and receiver operating characteristic (ROC) analyses in looking at GFR as a predictor of mortality and renal function outcomes post-transplant.
+Assessed against the radionuclide GFR measurement, CKDEPI provided the most consistent results, with low values for bias (0.78), relative standard error (0.03) and mean absolute percentage error (15.02).
+Greater deviation from radionuclide GFR was observed for all other equations.
+Pearson's correlation between radionuclide and calculated GFR was significant for all equations.
+Regression and ROC analyses revealed equivalent utility of the radionuclide assay and GFR equations for predicting post-transplant acute kidney injury and chronic kidney disease (p < 0.05).
+In patients being evaluated for lung transplantation, CKDEPI correlates closely with direct radionuclide GFR measurement and equivalently predicts post-operative renal outcomes.
+Transplant centers could consider replacing or supplementing direct GFR measurement with less expensive, more convenient estimation by using the CKDEPI equation.
+ To develop an equation model of in-hospital mortality for mechanically ventilated patients in adult intensive care using administrative data for the purpose of retrospective performance comparison among intensive care units (ICUs).
+Two models were developed using the split-half method, in which one test dataset and two validation datasets were used to develop and validate the prediction model, respectively.
+Nine candidate variables (demographics: age; gender; clinical factors hospital admission course; primary diagnosis; reason for ICU entry; Charlson score; number of organ failures; procedures and therapies administered at any time during ICU admission: renal replacement therapy; pressors/vasoconstrictors) were used for developing the equation model.
+In acute-care teaching hospitals in Japan: 282 ICUs in 2008, 310 ICUs in 2009, and 364 ICUs in 2010.
+Mechanically ventilated adult patients discharged from an ICU from July 1 to December 31 in 2008, 2009, and 2010.
+The test dataset consisted of 5,807 patients in 2008, and the validation datasets consisted of 10,610 patients in 2009 and 7,576 patients in 2010.
+Two models were developed: Model 1 (using independent variables of demographics and clinical factors), Model 2 (using procedures and therapies administered at any time during ICU admission in addition to the variables in Model 1).
+Using the test dataset, 8 variables (except for gender) were included in multiple logistic regression analysis with in-hospital mortality as the dependent variable, and the mortality prediction equation was constructed.
+Coefficients from the equation were then tested in the validation model.
+Hosmer-Lemeshow χ(2) are values for the test dataset in Model 1 and Model 2, and were 11.9 (P = 0.15) and 15.6 (P = 0.05), respectively; C-statistics for the test dataset in Model 1and Model 2 were 0.70 and 0.78, respectively.
+In-hospital mortality prediction for the validation datasets showed low and moderate accuracy in Model 1 and Model 2, respectively.
+Model 2 may potentially serve as an alternative model for predicting mortality in mechanically ventilated patients, who have so far required physiological data for the accurate prediction of outcomes.
+Model 2 may facilitate the comparative evaluation of in-hospital mortality in multicenter analyses based on administrative data for mechanically ventilated patients.
+ This research aimed to estimate the effect of perceived social factors in the community stress and problems on the residents' psychopathology such as depression and suicidal behaviors.
+Subjects of this study were the informants (N=1618) in a psychological autopsy (PA) study with a case-control design.
+We interviewed two informants (a family member and a close friend) for 392 suicides and 416 living controls, which came from 16 rural counties randomly selected from three provinces of China.
+Community stress and problems were measured by the WHO SUPRE-MISS scale.
+Depression was measured by CES-D scale, and suicidal behavior was assessed by NCS-R scale.
+Multivariable liner and logistic regression models and the Structural Equation Modeling (SEM) were applied to probe the correlation of the depression and the suicidal behaviors with some major demographic variables as covariates.
+It was found that community stress and problems were directly associated with rural Chinese residents' depression (Path coefficient=0.127, P<0.001).
+There was no direct correlation between community stress and problem and suicidal behaviors, but community stress and problem can affect suicidal behaviors indirectly through depression.
+The path coefficient between depression and suicidal behaviors was 0.975.
+The current study predicts a new research viewpoint, that is, the depression is the intermediate between community stress and problem and suicidal behaviors.
+It might be an effective route to prevent depression directly and suicidal behaviors indirectly by reducing the community stress and problems.
+ The aim of this study was to evaluate the effect of variables such as personality traits, driving behavior and mental illness on road traffic accidents among the drivers with accidents and those without road crash.
+In this cohort study, 800 bus and truck drivers were recruited.
+Participants were selected among drivers who referred to Imam Sajjad Hospital (Tehran, Iran) during 2013-2015.
+The Manchester driving behavior questionnaire (MDBQ), big five personality test (NEO personality inventory) and semi-structured interview (schizophrenia and affective disorders scale) were used.
+After two years, we surveyed all accidents due to human factors that involved the recruited drivers.
+The data were analyzed using the SPSS software by performing the descriptive statistics, t-test, and multiple logistic regression analysis methods.
+P values less than 0.05 were considered statistically significant.
+In terms of controlling the effective and demographic variables, the findings revealed significant differences between the two groups of drivers that were and were not involved in road accidents.
+In addition, it was found that depression and anxiety could increase the odds ratio (OR) of road accidents by 2.4- and 2.7-folds, respectively (P=0.04, P=0.004).
+It is noteworthy to mention that neuroticism alone can increase the odds of road accidents by 1.1-fold (P=0.009), but other personality factors did not have a significant effect on the equation.
+The results revealed that some mental disorders affect the incidence of road collisions.
+Considering the importance and sensitivity of driving behavior, it is necessary to evaluate multiple psychological factors influencing drivers before and after receiving or renewing their driver's license.
+ The aim of this study was to extract the factors possibly associated with sertraline treatment response and elucidate their interactions and extent of influence.
+Demographic state, stress state, personality, and eight genetic polymorphisms at baseline and clinical symptoms at baseline and 8 weeks were analyzed and examined by logistic regression and a structural equation model in sertraline treatment study of 96 Japanese patients with major depressive disorder.
+Non-responders were associated with higher scores of harm avoidance in Temperament and Character Inventory, higher scores (≥24) of 17-item Hamilton Rating Scale for Depression at baseline, recurrence, and 12/12 genotype of the serotonin transporter variable number of tandem repeat polymorphism in intron 2 (5HTTSTin2).
+When we calculated the response index using four factors extracted, the mean response index value of non-responders was significantly higher than that of responders.
+The symptoms at baseline, personality, recurrence, and polymorphism of 5HTTSTin2 showed significantly direct and positive influences on the symptoms at 8 weeks in our final structural equation model with a good model fit.
+Considering the combination of four factors extracted may be useful for predicting a worse response to sertraline treatment and selecting different treatment other than sertraline.
+ To determine the underlying substrate utilization mechanism in the logistic equation for batch microbial growth by revealing the relationship between the logistic and Monod kinetics.
+Also, to determine the logistic rate constant in terms of Monod kinetic constants.
+The logistic equation used to describe batch microbial growth was related to the Monod kinetics and found to be first-order in terms of the substrate and biomass concentrations.
+The logistic equation constant was also related to the Monod kinetic constants.
+Similarly, the substrate utilization kinetic equations were derived by using the logistic growth equation and related to the Monod kinetics.
+It is revaled that the logistic growth equation is a special form of the Monod growth kinetics when substrate limitation is first-order with respect to the substrate concentration.
+The logistic rate constant (k) is directly proportional to the maximum specific growth rate constant (mu(m)) and initial substrate concentration (S(0)) and also inversely related to the saturation constant (K(s)).
+The semi-empirical logistic equation can be used instead of Monod kinetics at low substrate concentrations to describe batch microbial growth using the relationship between the logistic rate constant and the Monod kinetic constants.
+ Ten permanent plots of Larix olgensis plantation were established in 1972 and 1974 at Jiangshanjiao and Mengjiagang forest farms in Heilongjiang Province, respectively.
+The plots including 8 thinning plots and 2 control plots were measured annually.
+The effects of thinning on the probability of plot mortality and individual tree mortality were analyzed.
+Based on the binary logistic regression, two-step models of the probability of mortality were developed.
+The approach consisted of estimating the probability of mortality after thinning on a sample plot (1) and the mortality of individual tree within mortality plots (2).
+The generalized estimating equations (GEE) method was adopted to estimate the parameters of models.
+An optimal cutpoint was determined for each model by plotting the sensitivity curve and the specificity curve and choosing the cutpoint at which the specificity and sensitivity curves cross.
+The results showed that four models (models 1-4) were developed based on the data of plots which was divided into 4 groups by thinning times, respectively.
+The significant explicatory variables of model 1 were site index, the logarithm of stand age, thinning age and thinning intensity.
+Principal component analysis was used to develop models 2-4.
+The primal variables of the principal components were stand age, tree numbers per hectare, mean square diameter at breast height and thinning factors.
+This showed that thinning significantly affected the probability of plot mortality.
+The effect of thinning was not significant for the pro-bability of individual tree mortality.
+The significant variables of the individual tree mortality model were planting density, age, the inverse of diameter at breast height and the basal area of all trees larger than the subject tree.
+Hosmer and Lemeshow goodness of fit tests were not significant for the mortality models of plots and individual trees (P＞0.05).
+The areas under the receiver operating characteristic curve (AUC) of the models were all greater than 0.91, the accuracies were all above 80%, suggesting the fitting results of the models performed very well.
+ While risk factors for depression are increasingly known, there is no widely utilised depression risk index.
+Our objective was to develop a method for a flexible, modular, Risk Index for Depression using structural equation models of key determinants identified from previous published research that blended machine-learning with traditional statistical techniques.
+Demographic, clinical and laboratory variables from the National Health and Nutrition Examination Study (2009-2010, N = 5546) were utilised.
+Data were split 50:50 into training:validation datasets.
+Generalised structural equation models, using logistic regression, were developed with a binary outcome depression measure (Patient Health Questionnaire-9 score ⩾ 10) and previously identified determinants of depression: demographics, lifestyle-environs, diet, biomarkers and somatic symptoms.
+Indicative goodness-of-fit statistics and Areas Under the Receiver Operator Characteristic Curves were calculated and probit regression checked model consistency.
+The generalised structural equation model was built from a systematic process.
+Relative importance of the depression determinants were diet (odds ratio: 4.09; 95% confidence interval: [2.01, 8.35]), lifestyle-environs (odds ratio: 2.15; 95% CI: [1.57, 2.94]), somatic symptoms (odds ratio: 2.10; 95% CI: [1.58, 2.80]), demographics (odds ratio:1.46; 95% CI: [0.72, 2.95]) and biomarkers (odds ratio:1.39; 95% CI: [1.00, 1.93]).
+The relationships between demographics and lifestyle-environs and depression indicated a potential indirect path via somatic symptoms and biomarkers.
+The path from diet was direct to depression.
+The Areas under the Receiver Operator Characteristic Curves were good (logistic:training = 0.850, validation = 0.813; probit:training = 0.849, validation = 0.809).
+The novel Risk Index for Depression modular methodology developed has the flexibility to add/remove direct/indirect risk determinants paths to depression using a structural equation model on datasets that take account of a wide range of known risks.
+Risk Index for Depression shows promise for future clinical use by providing indications of main determinant(s) associated with a patient's predisposition to depression and has the ability to be translated for the development of risk indices for other affective disorders.
+ We developed a mathematical "prostate cancer (PCa) conditions simulating" predictive model (PCP-SMART), from which we derived a novel PCa predictor (prostate cancer risk determinator [PCRD] index) and a PCa risk equation.
+We used these to estimate the probability of finding PCa on prostate biopsy, on an individual basis.
+A total of 371 men who had undergone transrectal ultrasound-guided prostate biopsy were enrolled in the present study.
+Given that PCa risk relates to the total prostate-specific antigen (tPSA) level, age, prostate volume, free PSA (fPSA), fPSA/tPSA ratio, and PSA density and that tPSA ≥ 50 ng/mL has a 98.5% positive predictive value for a PCa diagnosis, we hypothesized that correlating 2 variables composed of 3 ratios (1, tPSA/age; 2, tPSA/prostate volume; and 3, fPSA/tPSA; 1 variable including the patient's tPSA and the other, a tPSA value of 50 ng/mL) could operate as a PCa conditions imitating/simulating model.
+Linear regression analysis was used to derive the coefficient of determination (R<sup>2</sup>), termed the PCRD index.
+To estimate the PCRD index's predictive validity, we used the χ<sup>2</sup> test, multiple logistic regression analysis with PCa risk equation formation, calculation of test performance characteristics, and area under the receiver operating characteristic curve analysis using SPSS, version 22 (P < .05).
+The biopsy findings were positive for PCa in 167 patients (45.1%) and negative in 164 (44.2%).
+The PCRD index was positively signed in 89.82% positive PCa cases and negative in 91.46% negative PCa cases (χ<sup>2</sup> test; P < .001; relative risk, 8.98).
+The sensitivity was 89.8%, specificity was 91.5%, positive predictive value was 91.5%, negative predictive value was 89.8%, positive likelihood ratio was 10.5, negative likelihood ratio was 0.11, and accuracy was 90.6%.
+Multiple logistic regression revealed the PCRD index as an independent PCa predictor, and the formulated risk equation was 91% accurate in predicting the probability of finding PCa.
+On the receiver operating characteristic analysis, the PCRD index (area under the curve, 0.926) significantly (P < .001) outperformed other, established PCa predictors.
+The PCRD index effectively predicted the prostate biopsy outcome, correctly identifying 9 of 10 men who were eventually diagnosed with PCa and correctly ruling out PCa for 9 of 10 men who did not have PCa.
+Its predictive power significantly outperformed established PCa predictors, and the formulated risk equation accurately calculated the probability of finding cancer on biopsy, on an individual patient basis.
+ Unconditioned logistic regression is a highly useful risk prediction method in epidemiology.
+This article reviews the different solutions provided by different authors concerning the interface between the calculation of the sample size and the use of logistics regression.
+Based on the knowledge of the information initially provided, a review is made of the customized regression and predictive constriction phenomenon, the design of an ordinal exposition with a binary output, the event of interest per variable concept, the indicator variables, the classic Freeman equation, etc.
+Some skeptical ideas regarding this subject are also included.
+ Periodontal disease is associated with diabetes, heart disease, and chronic kidney disease (CKD), relationships postulated to be due in part to vascular inflammation.
+A bidirectional relationship between CKD and periodontal disease is plausible, though this relationship has not been previously reported.
+In this study, we assessed the potential for connections between CKD and periodontal disease, and mediators of these relationships using structural equation models of data from 11,211 adults ≥ 18 years of age who participated in the Third National Health and Nutrition Examination Survey.
+Multivariable logistic regression models were used to test the hypothesis that periodontal disease was independently associated with CKD.
+Given the potential that the periodontal disease and CKD relationship may be bidirectional, a two-step analytic approach was used that involved tests for mediation and structural equation models to examine more complex direct and indirect effects of periodontal disease on CKD, and vice versa.
+In two separate models, periodontal disease (adjusted odds ratio of 1.62), edentulism (adjusted odds ratio of 1.83), and the periodontal disease score were associated with CKD when simultaneously adjusting for 14 other factors.
+Altogether, three of four structural equation models support the hypothesized relationship.
+Thus, our analyses support a bidirectional relationship between CKD and periodontal disease, mediated by hypertension and the duration of diabetes.
+ The time required before a mass of cancer cells considered to have originated from a single malignantly transformed cancer 'stem' cell reaches a certain number has not been studied.
+Applications might include determination of the time the cell mass reaches a size that can be detected by X-rays or physical examination or modeling growth rates in vitro in order to compare with other models or established data.
+We employed a simple logarithmic equation and a common logistic equation incorporating 'feedback' for unknown variables of cell birth, growth, division, and death that can be used to model cell proliferation.
+It can be used in association with free or commercial statistical software.
+Results with these two equations, varying the proliferation rate, nominally reduced by generational cell loss, are presented in two tables.
+The resulting equation, instructions, examples, and necessary mathematical software are available in the online appendix, where several parameters of interest can be modified by the reader www.uic.edu/nursing/publicationsupplements/tobillion_Anderson_Rubenstein_Guinan_Patel1.pdf.
+Reducing the proliferation rate by whatever alterations employed, markedly increases the time to reach 10(9) cells originating from an initial progenitor.
+In thinking about multistep oncogenesis, it is useful to consider the profound effect that variations in the effective proliferation rate may have during cancer development.
+This can be approached with the proposed equation, which is easy to use and available to further peer fine-tuning to be used in future modeling of cell growth.
+ The transition density of a stochastic, logistic population growth model with multiplicative intrinsic noise is analytically intractable.
+Inferring model parameter values by fitting such stochastic differential equation (SDE) models to data therefore requires relatively slow numerical simulation.
+Where such simulation is prohibitively slow, an alternative is to use model approximations which do have an analytically tractable transition density, enabling fast inference.
+We introduce two such approximations, with either multiplicative or additive intrinsic noise, each derived from the linear noise approximation (LNA) of a logistic growth SDE.
+After Bayesian inference we find that our fast LNA models, using Kalman filter recursion for computation of marginal likelihoods, give similar posterior distributions to slow, arbitrarily exact models.
+We also demonstrate that simulations from our LNA models better describe the characteristics of the stochastic logistic growth models than a related approach.
+Finally, we demonstrate that our LNA model with additive intrinsic noise and measurement error best describes an example set of longitudinal observations of microbial population size taken from a typical, genome-wide screening experiment.
+ Chronic kidney disease accounts for much of the increased mortality, especially in the elder population.
+The prevalence of this disease is expected to increase significantly as the society ages.
+Our aim was to evaluate the kidney function and risk factors of reduced renal function among elderly Chinese patients.
+This study retrospectively collected clinical data from a total of 1062 inpatients aged 65 years or over.
+Estimated glomerular filtration rate (eGFR) was calculated with the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation.
+Renal function and risk factors were also analyzed.
+For all 1062 subjects, the mean eGFR was 71.0 ± 24.8 mL/min/1.73 m(2), and the incidence rates of reduced renal function, proteinuria, hematuria and leukocyturia were 31.1%, 11.8%, 6.6% and 8.7%, respectively.
+The eGFR values were 83.4 ± 28.4, 72.2 ± 22.9, 67.8 ± 24.3 and 58.8 ± 29.1 mL/min/1.73 m(2) in the groups of 60-69, 70-79, 80-89 and ≥90 years age group (F = 15.101, p = 0.000), respectively; while the incidences of reduced renal function were 12.8%, 27.0%, 37.8% and 51.7% (χ(2) = 36.143, p = 0.000).
+Binary logistic regression analysis showed that hyperuricemia (OR = 4.62, p = 0.000), proteinuria (OR = 3.96, p = 0.000), urinary tumor (OR = 2.92, p = 0.015), anemia (OR = 2.45, p = 0.000), stroke (OR = 1.96, p = 0.000), hypertension (OR = 1.83, p = 0.006), renal cyst (OR = 1.64, p = 0.018), female (OR = 1.54, p = 0.015), coronary artery disease (OR = 1.53, p = 0.008) and age (OR = 1.05, p = 0.000) were the risk factors of reduced renal function.
+In conclusion, eGFR values decreased by age, while the incidence of reduced renal function, proteinuria, hematuria and leukocyturia increased with age.
+Treatment and control of comorbidities may slow the decline of renal function in elderly patients.
+ To investigate the risk factors for the short-term outcome of patients with hepatitis B virus (HBV)-related acute-on-chronic liver failure (ACLF), and to establish a risk model for predicting the short-term outcome of these patients.
+A total of 338 patients with HBV-related ACLF who were admitted to 30 Lod hospital of PLA hospital from January 2010 to January 2014 were enrolled, and a prospective clinical follow-up was performed for them.
+Multivariate logistic regression was used to determine the risk factors for short-term (12 weeks) outcome, the predictive model with logistic regression equation was established, and the predictive value of this model was evaluated.
+The multivariate logistic regression analysis showed that age, a family history of hepatitis B, hepatic encephalopathy (HE), hepatorenal syndrome (HRS), white blood cell (WBC), platelet (PLT), international normalized ratio (INR), total bilirubin (TBil), total bile acid (TBA), creatinine, Na, HBV DNA, and HBeAg were the independent risk factors for the short-term outcome of these patients.
+Logistic(p) = -4.466 + 1.192 age + 1.631 family history of hepatitis B + 1.091 HE + 1.631 HRS + 1.208 WBC -1.487 PLT + 1.092 INR + 1.446 TBil + 1.608 TBA -1.101 CHE + 1.279 CRE -1.713 Na + 1.032 HBV DNA + 0.833 HBeAg.
+The area under the receiver operating characteristic curve of the model for the prediction of short-term outcome was 0.930, the cut-off value was 3.16, the sensitivity was 0.860, and the specificity was 0.871.
+With the increasing scores of the equation, the mortality of patients tended to increase gradually.
+Age, a family history of hepatitis B, HE, HRS, WBC, PLT, INR, TBil, TBA, CHE, CRE, Na, HBV DNA, and HBeAg are the independent risk factors for the short-term outcome of patients with HBV-related ACLF.
+The model for predicting short-term outcome established on the basis of independent risk factors has a better clinical value in guiding clinical therapy.
+ Longitudinal studies are often applied in biomedical research and clinical trials to evaluate the treatment effect.
+The association pattern within the subject must be considered in both sample size calculation and the analysis.
+One of the most important approaches to analyze such a study is the generalized estimating equation (GEE) proposed by Liang and Zeger, in which "working correlation structure" is introduced and the association pattern within the subject depends on a vector of association parameters denoted by ρ.
+The explicit sample size formulas for two-group comparison in linear and logistic regression models are obtained based on the GEE method by Liu and Liang.
+For cluster randomized trials (CRTs), researchers proposed the optimal sample sizes at both the cluster and individual level as a function of sampling costs and the intracluster correlation coefficient (ICC).
+In these approaches, the optimal sample sizes depend strongly on the ICC.
+However, the ICC is usually unknown for CRTs and multicenter trials.
+To overcome this shortcoming, Van Breukelen et al.
+consider a range of possible ICC values identified from literature reviews and present Maximin designs (MMDs) based on relative efficiency (RE) and efficiency under budget and cost constraints.
+In this paper, the optimal sample size and number of repeated measurements using GEE models with an exchangeable working correlation matrix is proposed under the considerations of fixed budget, where "optimal" refers to maximum power for a given sampling budget.
+The equations of sample size and number of repeated measurements for a known parameter value ρ are derived and a straightforward algorithm for unknown ρ is developed.
+Applications in practice are discussed.
+We also discuss the existence of the optimal design when an AR(1) working correlation matrix is assumed.
+Our proposed method can be extended under the scenarios when the true and working correlation matrix are different.
+ The aim of this study was to develop a predictive model of objective oropharyngeal obstructive sleep apnea (OSA) surgery outcomes including success rate and apnea-hypopnea index (AHI) reduction ratio in adult OSA patients.
+Retrospective outcome research.
+All subjects with OSA who underwent oropharyngeal and/or nasal surgery and were followed for at least 3 months were enrolled in this study.
+Demographic, anatomical [tonsil size (TS) and palate-tongue position (PTP) grade (Gr)], and polysomnographic parameters were analyzed.
+The AHI reduction ratio (%) was defined as [(postoperative AHI-preoperative AHI) x 100 / postoperative AHI], and surgical success was defined as a ≥ 50% reduction in preoperative AHI with a postoperative AHI < 20.
+A total of 156 consecutive OSAS adult patients (mean age ± SD = 38.9 ± 9.6, M / F = 149 / 7) were included in this study.
+The best predictive equation by Forward Selection likelihood ratio (LR) logistic regression analysis was: [Formula: see text]The best predictive equation according to stepwise multiple linear regression analysis was: [Formula: see text] (TS/PTP Gr = 1 if TS/PTP Gr 3 or 4, TS/PTP Gr = 0 if TS/PTP Gr 1 or 2).
+The predictive models for oropharyngeal surgery described in this study may be useful for planning surgical treatments and improving objective outcomes in adult OSA patients.
+ The purpose of this study was to evaluate the diagnostic efficiency for hepatocellular carcinoma (HCC) with the combined analysis of alpha-l-fucosidase (AFU), alpha-fetoprotein (AFP) and thymidine kinase 1 (TK1).
+Serum levels of AFU, AFP and TK1 were measured in: 116 patients with HCC, 109 patients with benign hepatic diseases, and 104 normal subjects.
+The diagnostic value was analyzed using the logistic regression equation and receiver operating characteristic curves (ROC).
+Statistical distribution of the three tested tumor markers in every group was non-normally distributed (Kolmogorov-Sminov test, Z = 0.156-0.517, P < 0.001).
+The serum levels of AFP and TK1 in patients with HCC were significantly higher than those in patients with benign hepatic diseases (Mann-Whitney U test, Z = -8.570 to -5.943, all P < 0.001).
+However, there was no statistically significant difference of AFU between these two groups (Mann-Whitney U test, Z = -1.820, P = 0.069).
+The levels of AFU were significantly higher in patients with benign hepatic diseases than in normal subjects (Mann-Whitney U test, Z = -7.984, P < 0.001).
+Receiver operating characteristic curves (ROC) in patients with HCC versus those without HCC indicated the optimal cut-off value was 40.80 U/L for AFU, 10.86 μg/L for AFP and 1.92 pmol/L for TK1, respectively.
+The area under ROC curve (AUC) was 0.718 for AFU, 0.832 for AFP, 0.773 for TK1 and 0.900 for the combination of the three tumor markers.
+The combination resulted in a higher Youden index and a sensitivity of 85.3%.
+The combined detection of serum AFU, AFP and TK1 could play a complementary role in the diagnosis of HCC, and could significantly improve the sensitivity for the diagnosis of HCC.
+ Self-rated health is a robust predictor of several health outcomes, such as functional ability, health care utilization, morbidity and mortality.
+The purpose of this study is to investigate and explore how health locus of control and disease burden relate to self-rated health among patients at risk for cardiovascular disease.
+In 2009, 414 Swedish patients who were using statins completed a questionnaire about their health, diseases and their views on the three-dimensional health locus of control scale.
+The scale determines which category of health locus of control - internal, chance or powerful others - a patient most identifies with.
+The data was analyzed using logistic regression and a structural equation modeling approach.
+The analyses showed positive associations between internal health locus of control and self-rated health, and a negative association between health locus of control in chance and powerful others and self-rated health.
+High internal health locus of control was negatively associated with the cumulative burden of diseases, while health locus of control in chance and powerful others were positively associated with burden of diseases.
+In addition, age and education level had indirect associations with self-rated health through health locus of control.
+This study suggests that self-rated health is positively correlated with internal locus of control and negatively associated with high locus of control in chance and powerful others in patients at high risk for cardiovascular disease.
+Furthermore, disease burden seems to be negatively associated with self-rated health.
+ To establish the regression model predicting the probability of the capsular penetration according to the Chinese prostate cancer samples.
+Men enrolled in the Fudan University Shanghai Cancer Centre and undergoing radical prostatectomy between January 2006 and April 2010 were used to establish the predicting model.
+According to the pathology after radical prostatectomy, all cases were divided into two groups: organ confined disease group and locally advanced disease group, the difference of which were whether had the capsular penetration.
+The cases with regional lymph node metastasis were excluded.
+Serum prostate specific antigen level, Gleason grade, clinical stage were collected.
+Multiple Logistic regression model was established according to preoperative clinical data and postoperative pathological data to predict the incidence of capsular penetration.
+Receiver operating characteristic curve was used for the internal validation of the model.
+83 Chinese men were identified in the organ confined disease group with the age of 66.8 ± 5.8 years, and 36 in the locally advanced disease group with the age of 66.0 ± 6.8 years.
+The difference of the age between the two groups were of no statistic significance (t = 0.650, P = 0.517).
+The serum prostate specific antigen level (Wilcoxon W = 4562.0, P = 0.016), Gleason score (Wilcoxon W = 4586.5, P = 0.016), and clinical stage (Wilcoxon W = 4444.5, P = 0.001) of the locally advanced disease group were higher than the other group.
+The equation of the multiple Logistic regression model was Logit P = 0.488 × Gleason score + 0.104 × clinical stage -6.187, with the freedom degree of two and the likelihood ratio χ(2) test of 11.263 (P = 0.001).
+The area under the ROC curve (AUC) for capsular penetration was 0.696 (P = 0.001), with the 95% confidence interval of 0.598 - 0.793.
+The multiple Logistic regression model based on the Chinese population can accurately predict the probability of capsular penetration of the prostate cancer and work on well with high internal accuracy when clinical decisions are made.
+ Inflammation may play an important role in the association between exposure to polycyclic aromatic hydrocarbons (PAHs) and atherosclerotic cardiovascular disease (ASCVD) risk.
+However, the underlying mechanisms remain unclear.
+To investigate the association of PAHs exposure with ASCVD risk and effects of mean platelet volume (MPV) or Club cell secretory protein (CC16) on the association.
+A total of 2022 subjects (689 men and 1333 women) were drawn from the baseline Wuhan residents of the Wuhan-Zhuhai Cohort study.
+Data on demography and the physical examination were obtained from each participant.
+Urinary monohydroxy PAH metabolites (OH-PAHs) levels were measured by a gas chromatography-mass spectrometry.
+We estimated the association between each OH-PAHs and the 10-year ASCVD risk or coronary heart disease (CHD) risk using logistic regression models, and further analyze the mediating effect of MPV or plasma CC16 on the association by using structural equation modeling.
+The results of multiple logistic regression models showed that some OH-PAHs were positively associated with ASCVD risk but not CHD risk, including 2-hydroxyfluoren (β = 1.761; 95% CI: 1.194-2.597), 9-hydroxyfluoren (β = 1.470; 95% CI: 1.139-1.898), 1-hydroxyphenanthrene (β = 1.480; 95% CI: 1.008-2.175) and ΣOH-PAHs levels (β = 1.699; 95% CI: 1.151-2.507).
+The analysis of structural equation modeling shows that increased MPV and increased plasma CC16 levels contributed 13.6% and 15.1%, respectively, to the association between PAHs exposure and the 10-year ASCVD risk (p < 0.05).
+Exposure to PAHs may increase the risk of atherosclerosis, which was partially mediated by MPV or CC16.
+ To assess respective roles of serum creatinine (SCr) alone and estimated glomerular filtration rate (eGFR) as an early predictor for contrast-induced nephropathy (CIN) in elderly patients with cancer.
+eGFR of 348 patients at 65years or older with malignancy who underwent contrast-enhanced computed tomography (CECT) were calculated.
+eGFR was calculated based on the following three equations: Chronic Kidney Disease Epidemiology Collaboration equation (CKD-EPI); Modification of Diet in Renal Disease Study (MDRD); Cockcroft-Gault (CG).
+CIN was subdivided into two groups: CIN<sub>25%</sub> (SCr increase >25% but ≤0.5mg/dl), and CIN<sub>0.5</sub> (SCr increase >0.5mg/dl).
+The occurrence and clinical outcomes of CIN were determined according to SCr and eGFR.
+After CECT, CIN occurred in 50 (14.4%) patients, including 33 CIN<sub>25%</sub> patients and 17 CIN<sub>0.5</sub> patients.
+CIN<sub>0.5</sub> was significantly correlated with prolonged hospitalizations and increased in-hospital mortality, but not CIN<sub>25%</sub>.
+Despite SCr<1.5mg/dl, preexisting renal insufficiency (RI) was observed in 47 (13.5%) patients based on CKD-EPI equation, 50 (14.4%) patients based on MDRD equation, and 144 (41.4%) patients based on CG formula.
+In preexisting RI, the prevalence of CIN<sub>0.5</sub> had an odds ratio of 15.02 (5.24 to 43.07) based on CKD-EPI equation, 13.73 (4.81 to 39.20) based on MDRD equation, and 5.03 (1.60 to 15.75) based on CG formula.
+In elderly patients with cancer who visit the emergency department, renal assessment before CECT using CKD-EPI equation was superior to SCr alone, MDRD equation, or CG formula in predicting the occurrence of CIN related CECT.
+ This study aimed to develop a structural model for mammography adoption in Japanese middle-aged women by using constructs from the transtheoretical model (TTM), the theory of planned behavior (TPB), implementation intentions, and cancer worry.
+Questionnaires based on items including TTM, TPB, implementation intentions, cancer worry-related variables, and demographic variables were distributed to 1000 adult women aged 40 to 59 years, with 641 subjects being used in the final analysis (response rate = 64.1%).
+Regarding the stage of adoption, 79 participants (12.3%) were at the precontemplation stage, 30 (4.7%) were at the relapse stage, 142 (22.2%) were at the contemplation stage, 88 (13.7%) were at the action stage, and 302 (47.1%) were at the maintenance stage.
+Our model, derived from structural equation modeling, revealed that the stage of mammography adoption was significantly affected by goal intentions, implementation intentions, perceived barriers, history of breast cancer screening, and relative risk.
+A logistic regression analysis revealed that goal intentions and implementation intentions significantly predicted mammography uptake within 1 year.
+This study developed an integrated model constructed from TTM, TPB, implementation intentions, and cancer worry to account for mammography adoption in Japan, and also confirmed the predictive validity of the model.
+ We have used the leave-one-out (LOO) method and the area under the receiver operating characteristic (ROC) curve to validate logistic models with a sample of 167 patients with calvarial lesions.
+Seven logistic regression models were developed from 12 clinical and radiological variables to predict the most common diagnoses separately.
+The LOO method was used to test the validity of the equations.
+The discriminant power of every model was assessed by means of the area under the ROC curve (Az).
+The model with the greatest discrimination ability for the whole data set was the osteoma equation (Az = 0.951).
+The discriminatory ability of the statistical models decreased significantly with the LOO procedure, having the malignancy model the highest value (Az = 0.931).
+The LOO method can obtain a high benefit from small samples in order to validate prediction rules.
+In studies with small samples, resampling techniques such as the LOO should be routinely used in predictive modeling.
+This method may improve the forecast of infrequent diseases, such as calvarial lesions.
+ BACKGROUND Clinically, percutaneous vertebroplasty (PVP) is frequently applied to treat osteoporotic vertebral compression fracture (OVCF).
+It is believed that new compression fractures are more likely to occur adjacent to the PVP-treated segment, typically within 1 month after PVP.
+The purpose of this study was to investigate risk factors for adjacent vertebral compression fractures (AVCF) after PVP in patients with OVCF after menopause.
+MATERIAL AND METHODS Between Jun 2012 and Dec 2016, 412 patients were initially identified.
+We enrolled 390 patients in this study, and 22 were lost to follow-up.
+The medical records of the patients were retrospectively collected.
+Patients were followed up for at least 6 months, with an average follow-up period of 18 months.
+The potential risk factors investigated in this study included age, duration of menopause (DoM), preoperative vertebral compression, number of preoperative vertebral fractures (NPVF), bone mineral density (BMD), surgical approach (unilateral or bilateral), anesthesia methods, bone cement dose, complications (including COPD), and anti-osteoporosis treatment.
+Logistic regression analysis was used to determine the risk factors.
+RESULTS Sixty-eight patients were observed to have suffered from AVCF after PVP at the last follow-up.
+Univariate analysis showed that age, DoM, NPVF, BMD, COPD, and anti-osteoporosis treatment were the potential variables associated with the onset of AVCF (all P<0.05).
+Binary logistic regression analysis showed that the logistic regression equation was as follows: logit P=-3.10-1.07×X2+0.99×X3+2.15×X4 (where X2=BMD; X3=DoM; X4=NPVF), and "logit P" stands for the likelihood of developing an AVCF following PVP.
+CONCLUSIONS A long duration of menopause and preoperative multi-level vertebral fractures were the risk factors for AVCF in patients following PVP after menopause, while a high-level BMD acted in a protective role for AVCF development.
+ Scratch assays are used to study how a population of cells re-colonises a vacant region on a two-dimensional substrate after a cell monolayer is scratched.
+These experiments are used in many applications including drug design for the treatment of cancer and chronic wounds.
+To provide insights into the mechanisms that drive scratch assays, solutions of continuum reaction-diffusion models have been calibrated to data from scratch assays.
+These models typically include a logistic source term to describe carrying capacity-limited proliferation; however, the choice of using a logistic source term is often made without examining whether it is valid.
+Here we study the proliferation of PC-3 prostate cancer cells in a scratch assay.
+All experimental results for the scratch assay are compared with equivalent results from a proliferation assay where the cell monolayer is not scratched.
+Visual inspection of the time evolution of the cell density away from the location of the scratch reveals a series of sigmoid curves that could be naively calibrated to the solution of the logistic growth model.
+However, careful analysis of the per capita growth rate as a function of density reveals several key differences between the proliferation of cells in scratch and proliferation assays.
+Our findings suggest that the logistic growth model is valid for the entire duration of the proliferation assay.
+On the other hand, guided by data, we suggest that there are two phases of proliferation in a scratch assay; at short time, we have a disturbance phase where proliferation is not logistic, and this is followed by a growth phase where proliferation appears to be logistic.
+These two phases are observed across a large number of experiments performed at different initial cell densities.
+Overall our study shows that simply calibrating the solution of a continuum model to a scratch assay might produce misleading parameter estimates, and this issue can be resolved by making a distinction between the disturbance and growth phases.
+Repeating our procedure for other scratch assays will provide insight into the roles of the disturbance and growth phases for different cell lines and scratch assays performed on different substrates.
+ Designing an appropriate tissue engineering solution for craniosynostosis (CS) necessitates determination of whether CS-derived cells differ from normal (wild-type, WT) cells and what assays are appropriate to test for differences.
+Traditional methodologies to statistically compare cellular behavior may not accurately reflect biologically relevant differences because they poorly address variation.
+Here, logistic regression was used to determine which assays could identify a biological difference between WT and CS progenitor cells.
+Quantitative alkaline phosphatase and MTS proliferation assays were performed on adipose, muscle, and bone marrow-derived cells from WT and CS rabbits.
+Data were stratified by assay, cell type, and days in culture.
+Coefficients of variation were calculated and assay results coded as predictive variables.
+Phenotype (WT or CS) was coded as the dependent variable.
+Sensitivity-specificity curves, classification tables, and receiver operating characteristic curves were plotted for discriminating models.
+Two data sets were utilized for subsequent analyses; one was used to develop the logistic regression models for prediction, and the other independent data set was used to determine the ability to predict group membership based on the predictive equation.
+The resulting coefficients of variation were high for all differentiation measures.
+Upon model implementation, bone marrow assays were observed to result in 72%-100% predictability for phenotype.
+We found predictive differences in our muscle-derived and bone marrow-derived cells suggesting biologically relevant differences.
+This data analysis methodology could help identify homogenous cells that do not differ between pathologic and normal individuals or cells that differ in their osteogenic potential, depending on the type of cell-based therapy being developed.
+ Pediatric sepsis is a burdensome public health problem.
+Assessing the mortality risk of pediatric sepsis patients, offering effective treatment guidance, and improving prognosis to reduce mortality rates, are crucial.We extracted data derived from electronic medical records of pediatric sepsis patients that were collected during the first 24 hours after admission to the pediatric intensive care unit (PICU) of the Hunan Children's hospital from January 2012 to June 2014.
+A total of 788 children were randomly divided into a training (592, 75%) and validation group (196, 25%).
+The risk factors for mortality among these patients were identified by conducting multivariate logistic regression in the training group.
+Based on the established logistic regression equation, the logit probabilities for all patients (in both groups) were calculated to verify the model's internal and external validities.According to the training group, 6 variables (brain natriuretic peptide, albumin, total bilirubin, D-dimer, lactate levels, and mechanical ventilation in 24 hours) were included in the final logistic regression model.
+The areas under the curves of the model were 0.854 (0.826, 0.881) and 0.844 (0.816, 0.873) in the training and validation groups, respectively.The Mortality Risk Model for Pediatric Sepsis we established in this study showed acceptable accuracy to predict the mortality risk in pediatric sepsis patients.
+ We aimed to generate equation to predict arterial lactate (a-Lac) using venous lactate (v-Lac) and other lab data.
+A prospective cross-sectional study was conducted on emergency patients in the emergency department for 6 months at a general hospital in Tokyo, Japan.
+We collected arterial and venous gas analysis data.
+Patients were eligible for entry into the study if an arterial blood gas analysis was required for appropriate diagnostic care by the treating physician.
+Univariate linear regression analysis was conducted to generate an equation to calculate a-Lac incorporating only v-Lac.
+A multivariate forward stepwise logistic regression model (p-value of 0.05 for entry, 0.1 for removal) was used to generate an equation including v-Lac and other potentially relevant variables.
+Bland-Altman plot was drawn and the two equations were compared for model fitting using R-squares.
+Seventy-two arterial samples from 72 participants (61% male; mean age, 58.2 years) were included in the study.
+An initial regression equation was derived from univariate linear regression analysis:"(a-Lac) = -0.259 + (v-Lac) × 0.996".
+Subsequent multivariate forward stepwise logistic regression analysis, incorporating v-Lac and Po2, generated the following equation:"(a-Lac) = -0.469+(venous Po2) × 0.005 + (v-Lac) × 0.997".
+Calculated R-squares by single and multiple regression were 0.94 and 0.96, respectively.
+v-Lac estimates showed a high correlation with arterial values and our data provide two clinically useful equations to calculate a-Lac from v-Lac data.
+Considering clinical flexibility, "Lac = -0.259 + v-Lac × 0.996" might be more useful while avoiding a time-consuming and invasive procedure.
+ Sex estimation is an integral aspect of biological anthropology.
+Correctly estimating sex is the first step to many subsequent analyses, such as estimating living stature or age-at-death.
+Klales et al.
+(2012) [6] provided a revised version of the Phenice (1969) [3] method that expanded the original three traits (ventral arc, subpubic concavity/contour, and medial aspect of the ischio-pubic ramus) into five character states to capture varying degrees of expression within each trait.
+The Klales et al.
+(2012) [6] method also provided associated probabilities with each sex classification, which is of particular importance in forensic anthropology.
+However, the external validity of this method must be tested prior to applying the method to different populations from which the method was developed.
+A total of 1915 innominates from four diverse geographic populations: (1) U.S.
+Blacks and Whites; (2) South African Blacks and Whites; (3) Thai; and (4) unidentified Hispanic border crossers were scored in accordance with Klales et al.
+(2012) [6].
+Trait scores for each innominate were entered into the equation provided by Klales et al.
+(2012) [6] for external validation.
+Additionally, recalibration equations were calculated with logistic regression for each population and for a pooled global sample.
+Validation accuracies ranged from 87.5% to 95.6% and recalibration equation accuracies ranged from 89.6% to 98% total correct.
+Pooling all samples and using Klales' et al.
+(2012) [6] equations achieved an overall validation accuracy of 93.5%.
+The global recalibration model achieved 95.9% classification accuracy and can be employed in diverse worldwide populations for accurate sex estimation without the need for population specific equations.
+ To develop and validate an empirical equation to screen for diabetes.
+A predictive equation was developed using multiple logistic regression analysis and data collected from 1,032 Egyptian subjects with no history of diabetes.
+The equation incorporated age, sex, BMI, postprandial time (self-reported number of hours since last food or drink other than water), and random capillary plasma glucose as independent covariates for prediction of undiagnosed diabetes.
+These covariates were based on a fasting plasma glucose level >/=126 mg/dl and/or a plasma glucose level 2 h after a 75-g oral glucose load >/=200 mg/dl.
+The equation was validated using data collected from an independent sample of 1,065 American subjects.
+Its performance was also compared with that of recommended and proposed static plasma glucose cut points for diabetes screening.
+The predictive equation was calculated with the following logistic regression parameters: P = 1/(1 - e(-x)), where x = -10.0382 + [0.0331 (age in years) + 0.0308 (random plasma glucose in mg/dl) + 0.2500 (postprandial time assessed as 0 to >/=8 h) + 0.5620 (if female) + 0.0346 (BMI)].
+The cut point for the prediction of previously undiagnosed diabetes was defined as a probability value >/=0.20.
+The equation's sensitivity was 65%, specificity 96%, and positive predictive value (PPV) 67%.
+When applied to a new sample, the equation's sensitivity was 62%, specificity 96%, and PPV 63%.
+This multivariate logistic equation improves on currently recommended methods of screening for undiagnosed diabetes and can be easily implemented in a inexpensive handheld programmable calculator to predict previously undiagnosed diabetes.
+ To develop a multivariate prediction model for in-hospital mortality following aortic valve replacement.
+Retrospective analysis of prospectively collected data on 4550 consecutive patients undergoing aortic valve replacement between 1 April 1997 and 31 March 2004 at four hospitals.
+A multivariate logistic regression analysis was undertaken, using the forward stepwise technique, to identify independent risk factors for in-hospital mortality.
+The area under the receiver operating characteristic (ROC) curve was calculated to assess the performance of the model.
+The statistical model was internally validated using the technique of bootstrap resampling, which involved creating 100 random samples, with replacement, of 70% of the entire dataset.
+The model was also validated on 816 consecutive patients undergoing aortic valve replacement between 1 April 2004 and 31 March 2005 from the same four hospitals.
+Two hundred and seven (4.6%) in-hospital deaths occurred.
+Independent variables identified with in-hospital mortality are shown with relevant co-efficient values and p-values as follows: (1) age 70-75 years: 0.7046, p<0.001; (2) age 75-85 years: 1.1714, p<0.001; (3) age>85 years: 2.0339, p<0.001; (4) renal dysfunction: 1.2307, p<0.001; (5) New York Heart Association class IV: 0.5782, p=0.003; (6) hypertension: 0.4203, p=0.006; (7) atrial fibrillation: 0.604, p=0.002; (8) ejection fraction<30%: 0.571, p=0.012; (9) previous cardiac surgery: 0.9193, p<0.001; (10) non-elective surgery: 0.5735, p<0.001; (11) cardiogenic shock: 1.1291, p=0.009; (12) concomitant CABG: 0.6436, p<0.001.
+Intercept: -4.8092.
+A simplified additive scoring system was also developed.
+The ROC curve was 0.78, indicating a good discrimination power.
+Bootstrapping demonstrated that estimates were stable with an average ROC curve of 0.76, with a standard deviation of 0.025.
+Validation on 2004-2005 data revealed a ROC curve of 0.78 and an expected mortality of 4.7% compared to the observed rate of 4.1%.
+We developed a contemporaneous multivariate prediction model for in-hospital mortality following aortic valve replacement.
+This tool can be used in day-to-day practice to calculate patient-specific risk by the logistic equation or a simple scoring system with an equivalent predicted risk.
+ The primary goal of tailored medicine is to presymptomatically identify individuals at high risk for disease using information of each individual's genetic profile and collection of environmental risk factors.
+Recently, algorithms were given the strong recognition of several replicated risk factors for age-related macular degeneration (AMD), this distant goal is beginning to seem less mysterious.
+The purpose of the study was to develop a statistical model for AMD.
+This study includes total 106 subjects.
+To identify the risk of earlier diagnosis of suspected AMD patients, 22 independent variables were included in the study.
+Forward stepwise (likelihood ratio) binary logistic regression has been used to find significant variables associated with the risk of AMD.
+Prediction equation, based on significant risk factors, and model authenticity have been developed.
+Hosmer-Lemeshow goodness of fit statistic (χ(2)=0.143, df=8, p=1.0), which is nonsignificant, indicates the appropriateness of the logistic regression model to predict AMD.
+After going through stepwise logistic regression, only 6 variables out of the 22 independent variables, namely, serum complement factor H (CFH), serum chemokine (C-C motif) ligand 2 (CCL2), serum superoxide dismutase 1 (SOD1), polymorphism in CCL2 (rs4586), stress, and comorbidity were found to be significant (p<0.05).
+The binary logistic regression model is an appropriate tool to predict AMD in the presence of serum CFH, serum CCL2, serum SOD1, polymorphism in CCL2 (rs4586), stress, and comorbidity with high specificity and sensitivity.
+The area under the receiver operating characteristic curve (0.909, p=0.001) with less standard error of 0.034 and close 95% confidence intervals (0.842-0.976) further validates the model.
+ To explore the influencing factors of elderly outpatient visits and to provide evidence for poverty reduction in health in the poor rural areas.
+Through stratified sampling, a total of 1 271 aged people in four poverty Qi/County of Ulanqabcity were surveyed, including Qahar Right Wing Front Banner, Qahar Right Wing Middle Banner, Qahar Right Wing Rear Banner and Liangcheng County.
+Their socioeconomic and demographic characteristics, daily consumption, EuroQol five dimensions questionnaire(EQ-5D) and visual analogue scale (VAS),social support, health service needs and utilization were collected through cross-sectional household questionnaires.
+1 039 aged people who had experienced physical discomfort in the past 30 days were selected as subjects for the study.
+The differences between the groups were analyzed by chi-square test.
+A Logistic regression equation and a decision tree of elderly visits were built to find factors influencing decisionmaking of the aged.
+The average age of the research subjects was 71.8 years, with 52.2% being illiterate and 85.8% with middle social support.
+58.5% of the subjects living with their spouses, mostly living in 15 min medical circle and without any financial support from their children.
+The 30-day visiting rate when having physical discomfort was 31.0%.
+The chi-square test showed that the differences in visit rates among age, ethnic, residence patterns, daily consumption index, housing types, social support scores, grown children's economic assistance, travel time to medical institutions, and health self-assessment scores were statistically significant.
+Compared with Logistic analysis, the decision tree showed lower error rate of classification.
+Logistic regression model's error rate of classification was 31.4%, showing that the differences in visit rates among age, ethnic, residence patterns, daily consumption index, social support scores, travel time to medical institutions, and health self-assessment scores were statistically significant.
+The decision tree model's error rate of classification was 28.6%, showing six main influencing factors, including the travel time to medical institutions, cohabitants, education level, age, whether adult children provide economic support and social support score.
+The importance of these predictors were 0.42, 0.21, 0.13, 0.11, 0.07 and 0.06, respectively.
+In poor rural areas, medical resources, economic affordability, family and individual socio-demographic characteristics are the key factors affecting decision-making for the aged.
+It is necessary to integrate the improvement of the health care of the aged into the overall development of the society.
+And comprehensive interventions should be adopted to improve the outpatient utilization for aged in poor rural areas.
+ Polycyclic aromatic hydrocarbons (PAHs) are potent atmospheric pollutants produced by incomplete combustion of organic materials.
+Pre-clinical and occupational studies have reported a positive association of PAHs with oxidative stress, inflammation and subsequent development of atherosclerosis, a major underlying risk factor for cardiovascular disease (CVD).
+The aim of the current study is to estimate the association between levels of PAH biomarkers and CVD in a national representative sample of United States (US) adults.
+We examined adult participants (≥20years of age) from the merged US National Health and Nutrition Examination Survey 2001-2010.
+Logistic regression models were used to estimate the associations of each urinary PAH biomarker and CVD.
+Post-exploratory structural equation modeling was then used to address the interdependent response variables (angina, heart attack, stroke and coronary heart disease) as well as the interdependencies of PAH biomarkers.
+PAH biomarkers were positively associated with cardiovascular disease in multiple logistic regression models, although some associations were not statistically robust.
+Using structural equation modeling, latent PAH exposure variable was positively associated with latent CVD level variable in the multivariable adjusted model (β=0.12; 95% CI: 0.03, 0.20).
+A modest association between levels of PAH biomarkers and CVD was detected in US adults.
+Further prospective studies with adequate sample size are needed to replicate or refute our findings.
+ The purpose of our study was to estimate the future incidence rate (IR) and volume of primary total knee arthroplasty (TKA) in the United States from 2015 to 2050 using a conservative projection model that assumes a maximum IR of procedures.
+Furthermore, our study compared these projections to a model assuming exponential growth, as done in previous studies, for illustrative purposes.
+A population based epidemiological study was conducted using data from US National Inpatient Sample (NIS) and Census Bureau.
+Primary TKA procedures performed between 1993 and 2012 were identified.
+The IR, 95% confidence intervals (CI), or prediction intervals (PI) of TKA per 100,000 US citizens over the age of 40 years were calculated.
+The estimated IR was used as the outcome of a regression modelling with a logistic regression (i.e., conservative model) and Poisson regression equation (i.e., exponential growth model).
+Logistic regression modelling suggests the IR of TKA is expected to increase 69% by 2050 compared to 2012, from 429 (95%CI 374-453) procedures/100,000 in 2012 to 725 (95%PI 121-1041) in 2050.
+This translates into a 143% projected increase in TKA volume.
+Using the Poisson model, the IR in 2050 was projected to increase 565%, to 2854 (95%CI 2278-4004) procedures/100,000 IR, which is an 855% projected increase in volume compared to 2012.
+Even after using a conservative projection approach, the number of TKAs in the US, which already has the highest IR of knee arthroplasty in the world, is expected to increase 143% by 2050.
+ The need for mechanical ventilation (MV) in acute bronchiolitis (AB) by respiratory syncytial virus (RSV) varies depending on the series (6-18%).
+Our goal is to determine the admissions to PICU for MV in patients under 6 months with AB and define the risk factors for building a prediction model.
+Retrospective study of patients younger than 6 months admitted by BA-VRS between the periods April 1, 2010 and March 31, 2015 was made.
+The primary variable was the admission to PICU for MV.
+Related addition, to find risk factors in a model of binary logistic regression clinical variables were collected.
+A ROC curve model was developed and optimal cutoff point was identified.
+In 695 cases, the need of MV in the PICU (Y) was 56 (8.1%).
+Risk factors (Xi) included in the equation were: 1. male sex (OR 4.27) 2. postmenstrual age (OR: 0.76) 3.
+Weight income less than p3 (OR: 5.53) 4. intake lees than 50% (OR: 12.4) 5.
+Severity by scale (OR: 1.58) 6. apneas before admission (OR: 25.5) 7. bacterial superinfection (OR 5.03) and 8. gestational age more than 37 weeks OR (0.32).
+The area under the curve, sensitivity and specificity were 0.943, 0.84 and 0.93 respectively.
+The PICU admission for MV was 8.1 in every 100 healthy infants hospitalized for AB and year.
+The prediction model equation can help to predict patients at increased risk of severe evolution.
+ The standard model for the dynamics of a fragmented density-dependent population is built from several local logistic models coupled by migrations.
+First introduced in the 1970s and used in innumerable articles, this standard model applied to a two-patch situation has never been fully analyzed.
+Here, we complete this analysis and we delineate the conditions under which fragmentation associated with dispersal is either favorable or unfavorable to total population abundance.
+We pay special attention to the case of asymmetric dispersal, i.e., the situation in which the dispersal rate from patch 1 to patch 2 is not equal to the dispersal rate from patch 2 to patch 1.
+We show that this asymmetry can have a crucial quantitative influence on the effect of dispersal.
+ Black individuals are far more likely than white individuals to develop end stage renal disease (ESRD).
+However, earlier stages of chronic kidney disease (CKD) have been reported to be less prevalent among blacks.
+This disparity remains poorly understood.
+The objective of this study was to evaluate whether the lower prevalence of CKD among blacks in early stages of CKD might be due in part to an inability of the MDRD equation to accurately determine early stages of CKD in both the black and white population.
+We conducted a retrospective cohort study of 97, 451 patients seen in primary care clinic in Veterans Integrated Service Network 2 (VISN 2) over a 7 year period to determine the prevalence of CKD using both the Modification of Diet in Renal Disease (MDRD) Study equation and the more recently developed CKD Epidemiology Collaboration (CKD-EPI) equation.
+Demographic data, comorbid conditions, prescription of medications, and laboratory data were recorded.
+Logistic regression and quantile regression models were used to compare the prevalence of estimated glomerular filtration rate (eGFR) categories between black and white individuals.
+The overall prevalence of CKD was lower when the CKD-EPI equation was used.
+Prevalence of CKD in whites was 53.2% by MDRD and 48.4% by CKD-EPI, versus 34.1% by MDRD and 34.5% by CKD-EPI in blacks.
+The cumulative logistic regression and quantile regression showed that when eGFR was calculated by the EPI method, blacks were as likely to present with an eGFR value less than 60 mL/min/1.73 m2 as whites.
+Using the CKD-EPI equation, blacks were more likely than white individuals to have stage 3b, 4 and 5 CKD.
+Using the MDRD method, the prevalence in blacks was only higher than in whites for stage 4 and 5 CKD.
+Similar results were obtained when the analysis was confined to patients over 65 years of age.
+The MDRD equation overestimates the prevalence of CKD among whites and underestimates the prevalence of CKD in blacks compared to the CKD-EPI equation.
+ A Box-Behnken design was used to determine the effect of protein concentration (0, 5, or 10g of casein/100g), fat (0, 3, or 6g of corn oil/100g), a<sub>w</sub> (0.900, 0.945, or 0.990), pH (3.5, 5.0, or 6.5), concentration of cinnamon essential oil (CEO, 0, 200, or 400μL/kg) and incubation temperature (15, 25, or 35°C) on the growth of Aspergillus flavus during 50days of incubation.
+Mold response under the evaluated conditions was modeled by the modified Gompertz equation, logistic regression, and time-to-detection model.
+The obtained polynomial regression models allow the significant coefficients (p<0.05) for linear, quadratic and interaction effects for the Gompertz equation's parameters to be identified, which adequately described (R<sup>2</sup>>0.967) the studied mold responses.
+After 50days of incubation, every tested model system was classified according to the observed response as 1 (growth) or 0 (no growth), then a binary logistic regression was utilized to model A. flavus growth interface, allowing to predict the probability of mold growth under selected combinations of tested factors.
+The time-to-detection model was utilized to estimate the time at which A. flavus visible growth begins.
+Water activity, temperature, and CEO concentration were the most important factors affecting fungal growth.
+It was observed that there is a range of possible combinations that may induce growth, such that incubation conditions and the amount of essential oil necessary for fungal growth inhibition strongly depend on protein and fat concentrations as well as on the pH of studied model systems.
+The probabilistic model and the time-to-detection models constitute another option to determine appropriate storage/processing conditions and accurately predict the probability and/or the time at which A. flavus growth occurs.
+ Aging worsens outcome in traumatic brain injury (TBI), but available studies may not provide accurate outcomes predictions due to confounding associated injuries.
+Our goal was to develop a predictive tool using variables available at admission to predict outcomes related to severity of brain injury in aging patients.
+Characteristics and outcomes of blunt trauma patients, aged 50 or older, with isolated TBI, in the National Trauma Data Bank (NTDB), were evaluated.
+Equations predicting survival and independence at discharge (IDC) were developed and validated using patients from our trauma registry, comparing predicted with actual outcomes.
+Logistic regression for survival and IDC was performed in 57,588 patients using age, sex, Glasgow Coma Scale score (GCS), and Revised Trauma Score (RTS).
+All variables were independent predictors of outcome.
+Two models were developed using these data.
+The first included age, sex, and GCS.
+The second substituted RTS for GCS.
+C statistics from the models for survival and IDC were 0.90 and 0.82 in the GCS model.
+In the RTS model, C statistics were 0.80 and 0.67.
+The use of GCS provided better discrimination and was chosen for further examination.
+Using a predictive equation derived from the logistic regression model, outcome probabilities were calculated for 894 similar patients from our trauma registry (January 2012 to March 2016).
+The survival and IDC models both showed excellent discrimination (p < 0.0001).
+Survival and IDC generally decreased by decade: age 50 to 59 (80% IDC, 6.5% mortality), 60 to 69 (82% IDC, 7.0% mortality), 70 to 79 (76% IDC, 8.9% mortality), and 80 to 89 (67% IDC, 13.4% mortality).
+These models can assist in predicting the probability of survival and IDC for aging patients with TBI.
+This provides important data for loved ones of these patients when addressing goals of care.
+ To explore the application of the generalized estimating equation in the ordinal repeated measures data and hence provide methodology reference for the analysis of repeated measures data in the clinical trials.
+An example was illustrated by modeling generalized estimating equation using the GENMOD command in comparison with the independent logistic regression.
+All parameters and their standard error were estimated, so every factor could be dealt with intuitive estimation of parameter.
+The standard errors of coefficients in generalized estimating equation are generally greater than that in independent logistic regression.
+Generalized estimating equation can solve the correlation between the dependent data by using working correlation matrix, and it can control strata correlation, repeated measures factor and other confounding factors effectively, so generalized estimating equation provides an effective method for the ordinal repeated measures data.
+ Previous risk prediction models of mortality after ruptured abdominal aortic aneurysm (rAAA) repair have been limited by imprecision, complexity, or inclusion of variables not available in the preoperative setting.
+Most importantly, these prediction models have been derived and validated before the adoption of endovascular aneurysm repair (EVAR) as a treatment for rAAA.
+We sought to derive and validate a new risk-prediction tool using only easily obtainable preoperative variables in patients with rAAA who are being considered for repair in the endovascular era.
+We used the Vascular Study Group of New England (VSGNE) database to identify all patients who underwent repair of RAAA (2006-2015).
+Variables were entered into a multivariable logistic regression model to identify independent predictors of 30-day mortality.
+Linear regression was then used to develop an equation to predict risk of 30-day mortality.
+During the study period, 649 patients underwent repair of rAAA; of these, 247 (38.1%) underwent EVAR and 402 (61.9%) underwent an open repair.
+The overall mortality associated with rAAA was 30.7% (open, 33.4% and EVAR, 26.2%).
+On multivariate modeling, the primary determinants of 30-day mortality were advanced age (>76 vs. ≤76 years, odds ratio [OR] = 2.91 and CI: 2.0-4.24), elevated creatinine (>1.5 mg/dL vs. ≤1.5 mg/dL, OR = 1.57 and CI: 1.05-2.34), and lowest systolic blood pressure (SBP) (BP <70 mm Hg vs. ≥70 mm Hg, OR = 2.65 and CI: 1.79-3.92).
+The logistic regression model had an area under a c-statistic of 0.69.
+The corresponding linear model used to provide a point estimate of 30-day mortality (%) was % mortality = 14 + 22 * (age >76) + 9 * (creatinine >1.5) + 20 * (bp <70) Using this model, patients can be stratified into different groups, each with a specific estimated risk of 30-day mortality ranging from a low of 14% to a high of 65%.
+In the endovascular era where both open and endovascular treatment are offered for the treatment of rAAA three variables, easily obtained in an emergency setting, accurately predict 30-day mortality for patients operated on for rAAA.
+This simple risk prediction tool could be used as a point of care decision aid to help the clinician in counseling patients and their families on treatment of those presenting with rAAA.
+ The aim of this study was to create a model to predict the implantation of transferred embryos based on information contained in the morphokinetic parameters of time-lapse monitoring.
+An analysis of time-lapse recordings of 410 embryos transferred in 343 cycles of in vitro fertilization (IVF) treatment was performed.
+The study was conducted between June 2012 and November 2014.
+For each embryo, the following data were collected: the duration of time from the intracytoplasmic sperm injection (ICSI) procedure to further division for two, three, four, and five blastomeres, time intervals between successive divisions, and the level of fragmentation assessed in successive time-points.
+Principal component analysis (PCA) and logistic regression were used to create a predictive model.
+Based on the results of principal component analysis and logistic regression analysis, a predictive equation was constructed.
+Statistically significant differences (p < 0.001) in the size of the created parameter between the implanted group (the median value: Me = -5.18 and quartiles: Q 1= -5.61; Q 3 = -4.79) and the non-implanted group (Me = -5.69, Q 1 = -6.34; Q 3 = -5.16) were found.
+A receiver operating characteristic (ROC) curve constructed for the considered model showed the good quality of this predictive equation.
+The area under the ROC curve was AUC = 0.70 with a 95% confidence interval (0.64, 0.75).
+The presented model has been validated on an independent data set, illustrating that the model is reliable and repeatable.
+Morphokinetic parameters contain information useful in the process of creating pregnancy prediction models.
+However, embryo quality is not the only factor responsible for implantation, and, thus, the power of prediction of the considered model is not as high as in models for blastocyst formation.
+Nevertheless, as illustrated by the results of this study, the application of advanced data-mining methods in reproductive medicine allows one to create more accurate and useful models.
+ This study describes a novel pediatric upper limb motion index (PULMI) for children with cerebral palsy (CP).
+The PULMI is based on three-dimensional kinematics and provides quantitative information about upper limb motion during the Reach & Grasp Cycle.
+We also report key temporal-spatial parameters for children with spastic, dyskinetic, and ataxic CP.
+Participants included 30 typically-developing (TD) children (age=10.9±4.1 years) and 25 children with CP and upper limb involvement (age=12.3±3.7 years), Manual Ability Classification System (MACS) levels I-IV.
+The PULMI is calculated from the root-mean-square difference for eight kinematic variables between each child with CP and the average TD values, and scaled such that the TD PULMI is 100±10.
+The PULMI was significantly lower among children with CP compared to TD children (Wilcoxon Z=-5.06, p<.0001).
+PULMI scores were significantly lower among children with dyskinetic CP compared to spastic CP (Z=-2.47, p<.0135).
+There was a strong negative correlation between PULMI and MACS among children with CP (Spearman's rho=-.78, p<.0001).
+Temporal-spatial values were significantly different between CP and TD children: movement time (Z=4.06, p<.0001), index of curvature during reach (Z=3.68, p=.0002), number of movement units (Z=3.72, p=.0002), angular velocity of elbow extension during reach (Z=-3.96, p<.0001), and transport(1):reach peak velocities (Z=-2.48, p=.0129).
+A logistic regression of four temporal-spatial parameters, the Pediatric Upper Limb Temporal-Spatial Equation (PULTSE), correctly predicted 19/22 movement disorder subtypes (spastic versus dyskinetic CP).
+The PULMI, PULTSE, and key temporal-spatial parameters of the Reach & Grasp Cycle offer a quantitative approach to analyzing upper limb function in children with CP.
+ Allometric scalings and a logistic equation assume that whole-plant photosynthetic rate under resource-unlimited conditions is proportional to leaf area.
+We tested this proportionality for the herb Helianthus tuberosus.
+During growth, we repeatedly measured the percentage of leaves with high, medium, and low photosynthetic capacity to estimate the whole-plant sum of photosynthetic capacity.
+We found that the whole-plant sum of the light-saturated photosynthetic rate of leaves is proportional to the whole-plant leaf area, disregarding the dynamics of the leaf population.
+We also found that the daily photosynthesis of each leaf appeared as a linear function of the light-saturated photosynthetic rate of that leaf, as predicted by the optimization theory.
+Using those results, we expressed whole-plant photosynthetic rate as a product of the light-saturated whole-plant photosynthetic rate and an efficiency index that reflects resource limitation as in the logistic equation.
+This efficiency decreased with increasing leaf area, reflecting light limitation.
+Therefore, realized whole-plant photosynthetic rate is not proportional to leaf area.
+These "diminishing returns" are well explained by a simple saturating curve, such as the logistic equation.
+ Many regression analyses involve explanatory variables that are measured with error, and failing to account for this error is well known to lead to biased point and interval estimates of the regression coefficients.
+We present here a new general method for adjusting for covariate error.
+Our method consists of an approximate version of the Stefanski-Nakamura corrected score approach, using the method of regularization to obtain an approximate solution of the relevant integral equation.
+We develop the theory in the setting of classical likelihood models; this setting covers, for example, linear regression, nonlinear regression, logistic regression, and Poisson regression.
+The method is extremely general in terms of the types of measurement error models covered, and is a functional method in the sense of not involving assumptions on the distribution of the true covariate.
+We discuss the theoretical properties of the method and present simulation results in the logistic regression setting (univariate and multivariate).
+For illustration, we apply the method to data from the Harvard Nurses' Health Study concerning the relationship between physical activity and breast cancer mortality in the period following a diagnosis of breast cancer.
